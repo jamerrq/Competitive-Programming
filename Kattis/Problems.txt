@@ -1,0 +1,92 @@
+1. Hello World
+https://open.kattis.com/problems/hello
+
+2. Take Two Stones
+https://open.kattis.com/problems/twostones
+
+3. Stuck In A Time Loop
+https://open.kattis.com/problems/timeloop
+
+4. R2
+https://open.kattis.com/problems/r2
+
+5. Solving for Carrots
+https://open.kattis.com/problems/carrots
+
+6. Quadrant Selection
+https://open.kattis.com/problems/quadrant
+
+7. Oddities
+https://open.kattis.com/problems/oddities
+
+8. Nasty Hacks
+https://open.kattis.com/problems/nastyhacks
+
+9. Ladder
+https://open.kattis.com/problems/ladder
+
+10. FizzBuzz
+https://open.kattis.com/problems/fizzbuzz
+
+11. Filip
+https://open.kattis.com/problems/filip
+
+12. Apaxiaaans!
+https://open.kattis.com/problems/apaxiaaans
+
+13. Seven Wonders
+https://open.kattis.com/problems/sevenwonders
+
+14. Reversed Binary Numbers
+https://open.kattis.com/problems/reversebinary
+
+15. Pot
+https://open.kattis.com/problems/pot
+
+16. Autori
+https://open.kattis.com/problems/autori
+
+17. Help a PhD candidate out
+https://open.kattis.com/problems/helpaphd
+
+18. Stand on Zanzibar
+https://open.kattis.com/problems/zanzibar
+
+19. Planina
+https://open.kattis.com/problems/planina
+
+20. Pet
+https://open.kattis.com/problems/pet
+
+21. Bijele
+https://open.kattis.com/problems/bijele
+
+22. Modulo
+https://open.kattis.com/problems/modulo
+
+23. Hissing Microphone
+https://open.kattis.com/problems/hissingmicrophone
+
+24. Number Fun
+https://open.kattis.com/problems/numberfun
+
+25. Death Knight Hero
+https://open.kattis.com/problems/deathknight
+
+26. Tarifa
+https://open.kattis.com/problems/tarifa
+
+27. Faktor
+https://open.kattis.com/problems/faktor
+
+28. Datum
+https://open.kattis.com/problems/datum
+
+29. ICPC Awards
+https://open.kattis.com/problems/icpcawards
+
+30. Akcija
+https://open.kattis.com/problems/akcija
+
+31. I've Been Everywhere, Man
+https://open.kattis.com/problems/everywhere
