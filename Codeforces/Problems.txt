@@ -84,3 +84,6 @@ https://codeforces.com/contest/1331/problem/A
 
 29. Quirky Quantifiers
 https://codeforces.com/contest/952/problem/A
+
+30. Bad Ugly Numbers
+https://codeforces.com/contest/1326/problem/A
