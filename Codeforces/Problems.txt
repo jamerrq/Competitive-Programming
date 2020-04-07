@@ -1,0 +1,86 @@
+1. Left-handers, Right-handers and Ambidexters
+https://codeforces.com/contest/950/problem/A
+
+2. Ilya and Bank Account
+https://codeforces.com/contest/313/problem/A
+
+3. Petya and Countryside
+https://codeforces.com/contest/66/problem/B
+
+4. Watermelon
+https://codeforces.com/contest/4/problem/A
+
+5. Another One Bite The Dust
+https://codeforces.com/contest/1148/problem/A
+
+6. Team
+https://codeforces.com/contest/231/problem/A
+
+7. Add Odd or Subtract Even
+https://codeforces.com/contest/1311/problem/A
+
+8. Two Regular Polygons
+https://codeforces.com/contest/1312/problem/A
+
+9. Bogosort
+https://codeforces.com/contest/1312/problem/B
+
+10. Yet Another Tetris Problem
+https://codeforces.com/contest/1324/problem/A
+
+11. Divide the Cash
+https://codeforces.com/gym/102343/problem/A
+
+12. Sort by Frequency
+https://codeforces.com/gym/102343/problem/B
+
+13. Maximums
+https://codeforces.com/contest/1326/problem/B
+
+14. CopyCopyCopyCopyCopy
+https://codeforces.com/contest/1325/problem/B
+
+15. EhAb AnD gCd
+https://codeforces.com/contest/1325/problem/A
+
+16. Even Subset Sum Problem
+https://codeforces.com/contest/1323/problem/A
+
+17. Sum of Odd Integers
+https://codeforces.com/contest/1327/problem/A
+
+18. Array with Odd Sum
+https://codeforces.com/contest/1296/problem/A
+
+19. Food Buying
+https://codeforces.com/contest/1296/problem/B
+
+20. Divisibility Problem
+https://codeforces.com/contest/1328/problem/A
+
+21. Ternary XOR
+https://codeforces.com/contest/1328/problem/C
+
+22. Adding Two Integers
+https://codeforces.com/gym/102212/problem/A
+
+23. Racetrack
+https://codeforces.com/gym/102212/problem/B
+
+24. Pig Latin
+https://codeforces.com/gym/102212/problem/C
+
+25. Rank Riana and One Punch
+https://codeforces.com/gym/102556/problem/A
+
+26. Exercising Walk
+https://codeforces.com/contest/1332/problem/A
+
+27. Thanos Sort
+https://codeforces.com/contest/1145/problem/A
+
+28. Is it rated?
+https://codeforces.com/contest/1331/problem/A
+
+29. Quirky Quantifiers
+https://codeforces.com/contest/952/problem/A
