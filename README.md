@@ -1,2 +1,3 @@
-In this repository, I'm uploading my solutions to some Kattis problems.
-You can view my Kattis profile on [https://open.kattis.com/users/jamerrq].
+Kattis profile: [https://open.kattis.com/users/jamerrq].
+Codeforces:     [https://codeforces.com/profile/jamerrq].
+Vjudge:         [https://vjudge.net/user/jamer_rq]
