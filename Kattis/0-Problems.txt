@@ -280,3 +280,6 @@ https://open.kattis.com/problems/ants
 94. Counting Stars
 https://open.kattis.com/problems/countingstars
 
+95. Odd Man Out
+https://open.kattis.com/problems/oddmanout
+
