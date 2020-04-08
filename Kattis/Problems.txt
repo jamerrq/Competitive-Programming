@@ -90,3 +90,192 @@ https://open.kattis.com/problems/akcija
 
 31. I've Been Everywhere, Man
 https://open.kattis.com/problems/everywhere
+
+32. Sum Kind of Problem
+https://open.kattis.com/problems/sumkindofproblem
+
+33. The Easiest Problem Is This One
+https://open.kattis.com/problems/easiest
+
+34. Cold-puter Science
+https://open.kattis.com/problems/cold
+
+35. Zamka
+https://open.kattis.com/problems/zamka
+
+36. Batter Up
+https://open.kattis.com/problems/batterup
+
+37. Trik
+https://open.kattis.com/problems/trik
+
+38. Aaah!
+https://open.kattis.com/problems/aaah
+
+39. Speed Limit
+https://open.kattis.com/problems/speedlimit
+
+40. Spavanac
+https://open.kattis.com/problems/spavanac
+
+41. Sibice
+https://open.kattis.com/problems/sibice
+
+42. No Duplicates
+https://open.kattis.com/problems/nodup
+
+43. Judging Moose
+https://open.kattis.com/problems/judgingmoose
+
+44. Grass Seed Inc.
+https://open.kattis.com/problems/grassseed
+
+45. Dice Cup
+https://open.kattis.com/problems/dicecup
+
+46. Detailed Differences
+https://open.kattis.com/problems/detaileddifferences
+
+47. Cryptographer's Conundrum
+https://open.kattis.com/problems/conundrum
+
+48. A Different Problem
+https://open.kattis.com/problems/different
+
+49. The Amazing Human Cannonball
+https://open.kattis.com/problems/humancannonball2
+
+50. Cetvrta
+https://open.kattis.com/problems/cetvrta
+
+51. Bela
+https://open.kattis.com/problems/bela
+
+52. Star Arrangements
+https://open.kattis.com/problems/stararrangements
+
+53. Stacking Cups
+https://open.kattis.com/problems/cups
+
+54. Skener
+https://open.kattis.com/problems/skener
+
+55. Ptice
+https://open.kattis.com/problems/ptice
+
+56. Parking
+https://open.kattis.com/problems/parking2
+
+57. Kornislav
+https://open.kattis.com/problems/kornislav
+
+58. Herman
+https://open.kattis.com/problems/herman
+
+59. Heart Rate
+https://open.kattis.com/problems/heartrate
+
+60. Hanging Out on the Terrace
+https://open.kattis.com/problems/hangingout
+
+61. Estimating the Area of a Circle
+https://open.kattis.com/problems/estimatingtheareaofacircle
+
+62. Encoded Message
+https://open.kattis.com/problems/encodedmessage
+
+63. Railroad
+https://open.kattis.com/problems/railroad2
+
+64. Alphabet Spam
+https://open.kattis.com/problems/alphabetspam
+
+65. Quick Estimates
+https://open.kattis.com/problems/quickestimate
+
+66. Volim
+https://open.kattis.com/problems/volim
+
+67. Tri
+https://open.kattis.com/problems/tri
+
+68. Bus Numbers
+https://open.kattis.com/problems/busnumbers
+
+69. Symmetric Order
+https://open.kattis.com/problems/symmetricorder
+
+70. Doorman
+https://open.kattis.com/problems/doorman
+
+71. Chess
+https://open.kattis.com/problems/chess
+
+72. Soylent
+https://open.kattis.com/problems/soylent
+
+73. Reverse Rot
+https://open.kattis.com/problems/reverserot
+
+74. 3D Printed Statues
+https://open.kattis.com/problems/3dprinter
+
+75. ABC
+https://open.kattis.com/problems/abc
+
+76. Pizza Crust
+https://open.kattis.com/problems/pizza2
+
+77. Natjecanje
+https://open.kattis.com/problems/natjecanje
+
+78. DRM Messages
+https://open.kattis.com/problems/drmmessages
+
+79. Karte
+https://open.kattis.com/problems/karte
+
+80. Prva
+https://open.kattis.com/problems/prva
+
+81. Parking
+https://open.kattis.com/problems/parking
+
+82. Mixed Fractions
+https://open.kattis.com/problems/mixedfractions
+
+83. Boat Parts
+https://open.kattis.com/problems/boatparts
+
+84. Cetiri
+https://open.kattis.com/problems/cetiri
+
+85. Paradox With Averages
+https://open.kattis.com/problems/averageseasy
+
+86. ToLower
+https://open.kattis.com/problems/tolower
+
+87. Sok
+https://open.kattis.com/problems/sok
+
+88. Elegibility
+https://open.kattis.com/problems/eligibility
+
+89. Odd Gnome
+https://open.kattis.com/problems/oddgnome
+
+90. False Sense of Security
+https://open.kattis.com/problems/falsesecurity
+
+91. 4 thought
+https://open.kattis.com/problems/4thought
+
+92. Above Average
+https://open.kattis.com/problems/aboveaverage
+
+93. Ants
+https://open.kattis.com/problems/ants
+
+94. Counting Stars
+https://open.kattis.com/problems/countingstars
