@@ -283,3 +283,161 @@ https://open.kattis.com/problems/countingstars
 95. Odd Man Out
 https://open.kattis.com/problems/oddmanout
 
+96. Soda Slurper
+https://open.kattis.com/problems/sodaslurper
+
+97. Skocimis
+https://open.kattis.com/problems/skocimis
+
+98. Different Distances
+https://open.kattis.com/problems/differentdistances
+
+99. Islands
+https://open.kattis.com/problems/islands3
+
+100. Jumbled Compass
+https://open.kattis.com/problems/compass
+
+101. Eight Queens
+https://open.kattis.com/problems/8queens
+
+102. Erase Securely
+https://open.kattis.com/problems/erase
+
+103. Patuljci
+https://open.kattis.com/problems/patuljci
+
+104. Simon Says
+https://open.kattis.com/problems/simonsays
+
+105. Server
+https://open.kattis.com/problems/server
+
+106. Temperature Confusion
+https://open.kattis.com/problems/temperatureconfusion
+
+107. One Chicken Per Person!
+https://open.kattis.com/problems/onechicken
+
+108. Un-bear-able Zoo
+https://open.kattis.com/problems/zoo
+
+109. ACM Contest Scoring
+https://open.kattis.com/problems/acm
+
+110. Falling Apart
+https://open.kattis.com/problems/fallingapart
+
+111. What does the fox say?
+https://open.kattis.com/problems/whatdoesthefoxsay
+
+112. The Key to Cryptography
+https://open.kattis.com/problems/keytocrypto
+
+113. Riječi
+https://open.kattis.com/problems/rijeci
+
+114. Ragged Right
+https://open.kattis.com/problems/raggedright
+
+115. Quick Brown Fox
+https://open.kattis.com/problems/quickbrownfox
+
+116. Nine Knights
+https://open.kattis.com/problems/nineknights
+
+117. Musical Scales
+https://open.kattis.com/problems/musicalscales
+
+118. Veci
+https://open.kattis.com/problems/veci
+
+119. Quality-Adjusted Life-Year
+https://open.kattis.com/problems/qaly
+
+120. Last Factorial Digit
+https://open.kattis.com/problems/lastfactorialdigit
+
+121. Poker Hand
+https://open.kattis.com/problems/pokerhand
+
+122. IsItHalloween.com
+https://open.kattis.com/problems/isithalloween
+
+123. Free Food
+https://open.kattis.com/problems/freefood
+
+124. Roaming Romans
+https://open.kattis.com/problems/romans
+
+125. Provinces and Gold
+https://open.kattis.com/problems/provincesandgold
+
+126. License to Launch
+https://open.kattis.com/problems/licensetolaunch
+
+127. Harshad Numbers
+https://open.kattis.com/problems/harshadnumbers
+
+128. Tai's formula
+https://open.kattis.com/problems/taisformula
+
+129. Kemija
+https://open.kattis.com/problems/kemija08
+
+130. Closing the Loop
+https://open.kattis.com/problems/closingtheloop
+
+131. Toilet Seat
+https://open.kattis.com/problems/toilet
+
+132. The Owl and The Fox
+https://open.kattis.com/problems/owlandfox
+
+133. Left Beehind
+https://open.kattis.com/problems/leftbeehind
+
+134. Mars Window
+https://open.kattis.com/problems/marswindow
+
+135. Dice Game
+https://open.kattis.com/problems/dicegame
+
+136. Simon
+https://open.kattis.com/problems/simon
+
+137. Beekeper
+https://open.kattis.com/problems/beekeeper
+
+138. Maximum Rent
+https://open.kattis.com/problems/maximumrent
+
+139. Avion
+https://open.kattis.com/problems/avion
+
+140. Sum Squared Digits Function
+https://open.kattis.com/problems/sumsquareddigits
+
+141. Card Trick
+https://open.kattis.com/problems/cardtrick2
+
+142. Mandelbrot
+https://open.kattis.com/problems/mandelbrot
+
+143. Piece of Cake!
+https://open.kattis.com/problems/pieceofcake2
+
+144. Transit Woes
+https://open.kattis.com/problems/transitwoes
+
+145. Luhn's Checksum Algorithm
+https://open.kattis.com/problems/luhnchecksum
+
+146. A Real Challenge
+https://open.kattis.com/problems/areal
+
+147. Fifty Shades of Pink
+https://open.kattis.com/problems/fiftyshades
+
+148. Cudoviste
+https://open.kattis.com/problems/cudoviste
