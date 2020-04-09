@@ -1,0 +1,11 @@
+1. Love Triangle
+https://vjudge.net/contest/366987#problem
+
+2. Metro
+https://vjudge.net/contest/366987#problem/B
+
+3. Rook, Bishop and King
+https://vjudge.net/contest/366987#problem/C
+
+4. Friends
+https://vjudge.net/contest/366987#problem/D

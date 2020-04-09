@@ -76,6 +76,9 @@ https://codeforces.com/gym/102556/problem/A
 26. Exercising Walk
 https://codeforces.com/contest/1332/problem/A
 
+27. Dead Pixel
+https://codeforces.com/problemset/problem/1315/A
+
 27. Thanos Sort
 https://codeforces.com/contest/1145/problem/A
 
