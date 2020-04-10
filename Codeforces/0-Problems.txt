@@ -90,3 +90,18 @@ https://codeforces.com/contest/952/problem/A
 
 30. Bad Ugly Numbers
 https://codeforces.com/contest/1326/problem/A
+
+31. Hit The Lottery
+https://codeforces.com/problemset/problem/996/A
+
+32. Make Product Equal One
+https://codeforces.com/problemset/problem/1206/B
+
+33. Filling Shapes
+https://codeforces.com/problemset/problem/1182/A
+
+34. Just Eat It!
+https://codeforces.com/problemset/problem/1285/B
+
+35. Letter
+https://codeforces.com/problemset/problem/180/C
