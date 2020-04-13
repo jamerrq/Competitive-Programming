@@ -15,3 +15,6 @@ https://vjudge.net/contest/215682#problem/A
 
 6. Throwing cards away I
 https://vjudge.net/contest/215682#problem/E
+
+7. Boredom
+https://vjudge.net/contest/366119#problem/G

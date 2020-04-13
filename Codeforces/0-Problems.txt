@@ -105,3 +105,21 @@ https://codeforces.com/problemset/problem/1285/B
 
 35. Letter
 https://codeforces.com/problemset/problem/180/C
+
+36. Collecting Coins
+https://codeforces.com/contest/1294/problem/A
+
+37. Collecting Packages
+https://codeforces.com/contest/1294/problem/B
+
+38. Candies and Two Sisters
+https://codeforces.com/contest/1335/problem/A
+
+39. Construct the String
+https://codeforces.com/contest/1335/problem/B
+
+40. Two Teams Composing
+https://codeforces.com/contest/1335/problem/C
+
+41. Anti-Sudoku
+https://codeforces.com/contest/1335/problem/D
