@@ -91,35 +91,20 @@ https://codeforces.com/contest/952/problem/A
 30. Bad Ugly Numbers
 https://codeforces.com/contest/1326/problem/A
 
-31. Hit The Lottery
-https://codeforces.com/problemset/problem/996/A
-
-32. Make Product Equal One
-https://codeforces.com/problemset/problem/1206/B
-
-33. Filling Shapes
-https://codeforces.com/problemset/problem/1182/A
-
-34. Just Eat It!
-https://codeforces.com/problemset/problem/1285/B
-
-35. Letter
-https://codeforces.com/problemset/problem/180/C
-
-36. Collecting Coins
+31. Collecting Coins
 https://codeforces.com/contest/1294/problem/A
 
-37. Collecting Packages
+32. Collecting Packages
 https://codeforces.com/contest/1294/problem/B
 
-38. Candies and Two Sisters
+33. Candies and Two Sisters
 https://codeforces.com/contest/1335/problem/A
 
-39. Construct the String
+34. Construct the String
 https://codeforces.com/contest/1335/problem/B
 
-40. Two Teams Composing
+35. Two Teams Composing
 https://codeforces.com/contest/1335/problem/C
 
-41. Anti-Sudoku
+36. Anti-Sudoku
 https://codeforces.com/contest/1335/problem/D

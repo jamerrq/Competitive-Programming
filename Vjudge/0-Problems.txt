@@ -16,5 +16,23 @@ https://vjudge.net/contest/215682#problem/A
 6. Throwing cards away I
 https://vjudge.net/contest/215682#problem/E
 
-7. Boredom
+7. Hit the Lottery
+https://vjudge.net/contest/366119#problem/A
+
+8. Even Subset Sum Problem
+https://vjudge.net/contest/366119#problem/B
+
+9. Make Product Equal One
+https://vjudge.net/contest/366119#problem/C
+
+10. Filling Shapes
+https://vjudge.net/contest/366119#problem/D
+
+11. Just Eat It!
+https://vjudge.net/contest/366119#problem/E
+
+12. Letter
+https://vjudge.net/contest/366119#problem/F
+
+13. Boredom
 https://vjudge.net/contest/366119#problem/G
