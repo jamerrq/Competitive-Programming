@@ -36,3 +36,6 @@ https://vjudge.net/contest/366119#problem/F
 
 13. Boredom
 https://vjudge.net/contest/366119#problem/G
+
+14. Presents
+https://vjudge.net/contest/368331#problem/C

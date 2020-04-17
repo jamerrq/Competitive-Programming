@@ -108,3 +108,18 @@ https://codeforces.com/contest/1335/problem/C
 
 36. Anti-Sudoku
 https://codeforces.com/contest/1335/problem/D
+
+37. SpongeBob SquarePants
+https://codeforces.com/gym/102219/problem/B
+
+38. I Don't Want To Pay For The Late Jar!
+https://codeforces.com/gym/102219/problem/C
+
+39. To Crash Or Not To Crash
+https://codeforces.com/gym/102219/problem/I
+
+40. Kitchen Plates
+https://codeforces.com/gym/102219/problem/J
+
+41. Help the Support Lady
+https://codeforces.com/gym/102219/problem/K

@@ -8,4 +8,6 @@ Most of the solutions are also a naive approach and sometimes I use a piece of D
 Kattis profile: [https://open.kattis.com/users/jamerrq].\
 Codeforces: [https://codeforces.com/profile/jamerrq].\
 Vjudge: [https://vjudge.net/user/jamerrq].\
-Project Euler: [https://projecteuler.net/archives].
+Google Code Jam: [https://codingcompetitions.withgoogle.com/codejam].\
+Project Euler: [https://projecteuler.net/archives].\
+AtCoder: [https://atcoder.jp/users/jamerrq].

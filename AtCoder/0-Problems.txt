@@ -1,0 +1,8 @@
+1. ABC Swap
+https://atcoder.jp/contests/abc161/tasks/abc161_a
+
+2. Popular Vote
+https://atcoder.jp/contests/abc161/tasks/abc161_b
+
+3. Replacing Integer
+https://atcoder.jp/contests/abc161/tasks/abc161_c
