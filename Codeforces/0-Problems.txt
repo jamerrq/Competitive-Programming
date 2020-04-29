@@ -123,3 +123,24 @@ https://codeforces.com/gym/102219/problem/J
 
 41. Help the Support Lady
 https://codeforces.com/gym/102219/problem/K
+
+42. Go Latin
+https://codeforces.com/gym/101987/attachments
+
+43. Candies
+https://codeforces.com/contest/1343/problem/A
+
+44. Balanced Array
+https://codeforces.com/contest/1343/problem/B
+
+45. Cow and Haybales
+https://codeforces.com/contest/1307/problem/A
+
+46. Alternating Subsequence
+https://codeforces.com/contest/1343/problem/C
+
+47. Nastya and Rice
+https://codeforces.com/contest/1341/problem/A
+
+48. Road To Zero
+https://codeforces.com/contest/1342/problem/A
