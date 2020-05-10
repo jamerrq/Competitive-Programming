@@ -144,3 +144,33 @@ https://codeforces.com/contest/1341/problem/A
 
 48. Road To Zero
 https://codeforces.com/contest/1342/problem/A
+
+49. Phoenix and Balanced
+https://codeforces.com/contest/1348/problem/A
+
+50. Puzzle Pieces
+https://codeforces.com/contest/1345/problem/A
+
+51. Card Constructions
+https://codeforces.com/contest/1345/problem/B
+
+52. A+B (Trial Problem)
+https://codeforces.com/contest/1351/problem/A
+
+53. Sum of Round Numbers
+https://codeforces.com/contest/1352/problem/A
+
+54. Same Parity Summands
+https://codeforces.com/contest/1352/problem/B
+
+55. K-th Not Divisible by n
+https://codeforces.com/contest/1352/problem/C
+
+56. Alice, Bob and Candies
+https://codeforces.com/contest/1352/problem/D
+
+57. Special Permutation
+https://codeforces.com/contest/1352/problem/G
+
+58. Binary String Reconstruction
+https://codeforces.com/contest/1352/problem/F

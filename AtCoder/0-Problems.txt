@@ -15,3 +15,24 @@ https://atcoder.jp/contests/abc163/tasks/abc163_b
 
 6. Management
 https://atcoder.jp/contests/abc163/tasks/abc163_c
+
+7. A?C
+https://atcoder.jp/contests/abc166/tasks/abc166_a
+
+8. Trick or Treat
+https://atcoder.jp/contests/abc166/tasks/abc166_b
+
+9. Sheeps and Wolves
+https://atcoder.jp/contests/abc164/tasks/abc164_a
+
+10. Battle
+https://atcoder.jp/contests/abc164/tasks/abc164_b
+
+11. gacha
+https://atcoder.jp/contests/abc164/tasks/abc164_c
+
+12. Registration
+https://atcoder.jp/contests/abc167/tasks/abc167_a
+
+13. Easy Linear Programming
+https://atcoder.jp/contests/abc167/tasks/abc167_b
