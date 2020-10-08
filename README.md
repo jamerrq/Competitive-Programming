@@ -1,4 +1,4 @@
-All solutions here are accepted, the unsolved ones are putted in specified folders.
+All solutions here are accepted, the unsolved ones are put in specified folders.
 
 Most of the solutions are written in Java because it was the lenguage that I was using when I started.\
 Now, I'm using Python.\
