@@ -1,0 +1,15 @@
+1. Vestigium
+https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/000000000020993c
+
+2. Nesting Depth
+https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/0000000000209a9f
+
+3. Parenting Partnering Returns
+https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/000000000020bdf9
+
+4. Pattern Matching
+https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd74/00000000002b3034
+
+5. Pascal Walk
+https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd74/00000000002b1353
+
