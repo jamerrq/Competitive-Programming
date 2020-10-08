@@ -10,3 +10,4 @@ for i in range(100, 1000):
             max_prd = ij
 
 print(max_prd)
+

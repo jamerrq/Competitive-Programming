@@ -3,7 +3,7 @@ f2 = 2
 
 fs = 2
 
-while f2 < 4*(1e6):
+while f2 < 4e6:
     ft = f2
     f2 += f1
     f1 = ft
@@ -11,3 +11,4 @@ while f2 < 4*(1e6):
         fs += f2
 
 print(fs)
+
