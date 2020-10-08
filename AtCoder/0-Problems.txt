@@ -36,3 +36,16 @@ https://atcoder.jp/contests/abc167/tasks/abc167_a
 
 13. Easy Linear Programming
 https://atcoder.jp/contests/abc167/tasks/abc167_b
+
+14. Colon
+https://atcoder.jp/contests/abc168/tasks/abc168_c
+
+15. Skill Up
+https://atcoder.jp/contests/abc167/tasks/abc167_c
+
+16. Therefore
+https://atcoder.jp/contests/abc168/tasks/abc168_a
+
+17. Triple Dots
+https://atcoder.jp/contests/abc168/tasks/abc168_b
+
