@@ -1,7 +1,7 @@
 All solutions here are accepted, the unsolved ones are put in specified folders.
 
-Most of the solutions are written in Java because it was the lenguage that I was using when I started.\
-Now, I'm using Python.\
+Most of the solutions are written in Java because it was the language I was using when I started CP.\
+Now, I'm using Python and barely C++.\
 Most of the solutions are also a naive approach and sometimes I use a piece of DP and greedy strategies.\
 I'm also in the way to learn new strategies and algorithms to improve my skills.
 
