@@ -189,3 +189,87 @@ https://codeforces.com/contest/1353/problem/B
 
 63. Board Moves
 https://codeforces.com/contest/1353/problem/C
+
+64. Applejack and Storages
+https://codeforces.com/contest/1393/problem/B
+
+65. Avoiding Zero
+https://codeforces.com/contest/1427/problem/A
+
+66. Bad Triangle
+https://codeforces.com/contest/1398/problem/A
+
+67. Bit++
+https://codeforces.com/problemset/problem/282/A
+
+68. Boy or Girl
+https://codeforces.com/problemset/problem/236/A
+
+69. Candies Division
+https://codeforces.com/problemset/problem/1283/B
+
+70. Captain Flint and Crew Recruitment
+https://codeforces.com/problemset/problem/1388/A
+
+71. ConneR and the A.R.C. Markland-N
+https://codeforces.com/problemset/problem/1293/A
+
+72. Domino piling
+https://codeforces.com/problemset/problem/50/A
+
+73. Floor Number
+https://codeforces.com/problemset/problem/1426/A
+
+74. Gifts Fixing
+https://codeforces.com/problemset/problem/1399/B
+
+75. Honest Coach
+https://codeforces.com/problemset/problem/1360/B
+
+76. JOE is on TV!
+https://codeforces.com/problemset/problem/1293/B
+
+77. Make it Good
+https://codeforces.com/problemset/problem/1385/C
+
+78. Minimal Square
+https://codeforces.com/problemset/problem/1360/A
+
+79. Minimum Product
+https://codeforces.com/problemset/problem/1409/B
+
+80. Minutes Before the New Year
+https://codeforces.com/problemset/problem/1283/A
+
+81. Next Round
+https://codeforces.com/problemset/problem/158/A
+
+82. Rainbow Dash, Fluttershy and Chess Coloring
+https://codeforces.com/problemset/problem/1393/A
+
+83. Remove Smallest
+https://codeforces.com/problemset/problem/1399/A
+
+84. Restore the Permutation by Merger
+https://codeforces.com/problemset/problem/1385/B
+
+85. Similar Pairs
+https://codeforces.com/problemset/problem/1360/C
+
+86. Substring Removal Game
+https://codeforces.com/problemset/problem/1398/B
+
+87. Sum of Round Numbers
+https://codeforces.com/problemset/problem/1352/A
+
+88. Symmetric Matrix
+https://codeforces.com/problemset/problem/1426/B
+
+89. The Way To Home
+https://codeforces.com/problemset/problem/910/A
+
+90. Three Pairwise Maximums
+https://codeforces.com/problemset/problem/1385/A
+
+91. Yet Another Two Integers Problem
+https://codeforces.com/problemset/problem/1409/A
