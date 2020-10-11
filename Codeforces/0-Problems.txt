@@ -174,3 +174,18 @@ https://codeforces.com/contest/1352/problem/G
 
 58. Binary String Reconstruction
 https://codeforces.com/contest/1352/problem/F
+
+59. Yet Another Palindrome Problem
+https://codeforces.com/contest/1324/problem/B
+
+60. Frog Jumps
+https://codeforces.com/contest/1324/problem/C
+
+61. Most Unstable Array
+https://codeforces.com/contest/1353/problem/A
+
+62. Two Arrays And Swaps
+https://codeforces.com/contest/1353/problem/B
+
+63. Board Moves
+https://codeforces.com/contest/1353/problem/C
