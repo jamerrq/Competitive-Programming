@@ -441,3 +441,15 @@ https://open.kattis.com/problems/fiftyshades
 
 148. Cudoviste
 https://open.kattis.com/problems/cudoviste
+
+149. Job Expenses
+https://open.kattis.com/problems/jobexpenses
+
+150. Chanukah Challenge
+https://open.kattis.com/problems/chanukah
+
+151. Synchronizing Lists
+https://open.kattis.com/problems/synchronizinglists
+
+151. Tour de France
+https://open.kattis.com/problems/tourdefrance
