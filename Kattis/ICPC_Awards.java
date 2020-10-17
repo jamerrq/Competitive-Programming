@@ -12,5 +12,6 @@ public class ICPC_Awards
             if(!m.containsKey(u)){System.out.println(u + " " + t); m.put(u,t); count++;}
             if(count == 12)break;
         }
+        s.close();
     }
 }

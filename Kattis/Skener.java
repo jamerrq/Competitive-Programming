@@ -5,7 +5,7 @@ public class Skener
         int r = sc.nextInt(), c = sc.nextInt(), h = sc.nextInt(), w = sc.nextInt();
         String[] lines = new String[r * h];
         int lastIndex = 0;
-        for(int i = 0; i < r; i++){
+        for(int i = 0; i < r + c - c; i++){
             String line = sc.next();
             for(int j = 0; j < h; j++){
                 lines[lastIndex] = line;
@@ -26,5 +26,6 @@ public class Skener
         for(String s: lines){
             System.out.println(s);
         }
+        sc.close();
     }
 }

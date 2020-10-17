@@ -8,5 +8,6 @@ class Autori{
             if(i == 0 || n.charAt(i - 1) == '-')a += n.charAt(i);
         }
         System.out.println(a);
+        s.close();
     }
 }

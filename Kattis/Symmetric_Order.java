@@ -8,7 +8,7 @@ public class Symmetric_Order
             if(n == 0)break;
             String[] names = new String[n];
             for(int i = 0; i < n / 2; i++){
-                names[i] = sc.next();                
+                names[i] = sc.next();
                 names[n - i - 1] = sc.next();
             }
             if(n % 2 != 0){
@@ -20,5 +20,6 @@ public class Symmetric_Order
             }
             set++;
         }
+        sc.close();
     }
 }

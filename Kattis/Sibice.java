@@ -10,5 +10,6 @@ public class Sibice
             if(m <= maxL)System.out.println("DA");
             else System.out.println("NE");
         }
+        sc.close();
     }
 }

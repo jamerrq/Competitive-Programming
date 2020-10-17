@@ -10,5 +10,6 @@ public class The_Amazing_Human_Cannonball
             if(y - h1 >= 1 && h2 - y >= 1)System.out.println("Safe");
             else System.out.println("Not Safe");
         }
+        sc.close();
     }
 }

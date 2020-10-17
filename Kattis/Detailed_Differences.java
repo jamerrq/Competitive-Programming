@@ -14,5 +14,6 @@ public class Detailed_Differences
             System.out.println(c);
             System.out.println();
         }
+        sc.close();
     }
 }

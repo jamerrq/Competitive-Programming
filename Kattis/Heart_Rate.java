@@ -8,6 +8,7 @@ public class Heart_Rate
             double p = sc.nextDouble();
             double min = 60 / (p / (b - 1)), mid = 60 / (p / b), max = 60 / (p / (b + 1));
             System.out.println(min + " " + mid + " " + max);
-        }        
+        }
+        sc.close();
     }
 }

@@ -21,5 +21,6 @@ class Odd_Man_Out{
                 }
             }
         }
+        sc.close();
     }
 }

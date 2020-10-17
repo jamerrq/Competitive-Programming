@@ -40,5 +40,6 @@ public class Karte
         }
         if(gresk)System.out.println("GRESKA");
         else System.out.println((13 - P.length() / 3) + " " + (13 - K.length() / 3) + " " + (13 - H.length() / 3) + " " + (13 - T.length() / 3));
+        sc.close();
     }
 }

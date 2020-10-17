@@ -14,5 +14,6 @@ public class Batter_Up
         }
         double average = (double)(sum) / n;
         System.out.println(average);
+        sc.close();
     }
 }

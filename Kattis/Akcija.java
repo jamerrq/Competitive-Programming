@@ -12,5 +12,6 @@ public class Akcija
         int sum = 0;
         for(int i = bp.length - 1; i >= 0; i--)if(i == 0 || (i + 1) % 3 != 0)sum += bp[i];
         System.out.println(sum);
+        sc.close();
     }
 }

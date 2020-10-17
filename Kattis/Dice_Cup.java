@@ -22,11 +22,11 @@ class Dice_Cup{
                 }
             }
         }
-        int max = 0, value = 0;
+        int max = 0;
         for(Sum s: values){
             if(s.count > max){
                 max = s.count;
-                value = s.value;
+                // value = s.value;
             }
         }
         for(Sum s: values){
@@ -34,17 +34,18 @@ class Dice_Cup{
                 System.out.println(s.value);
             }
         }
+        sc.close();
     }
 }
 
 class Sum{
     int count = 0;
     int value;
-    
+
     Sum(int value){
         this.value = value;
     }
-    
+
     void sum(){
         count++;
     }

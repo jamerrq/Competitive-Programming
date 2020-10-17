@@ -13,5 +13,6 @@ public class Free_Food{
       }
     }
     System.out.println(d.size());
+    sc.close();
   }
 }

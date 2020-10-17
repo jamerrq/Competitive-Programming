@@ -26,5 +26,6 @@ public class Trik
         if(board[0] == 1)System.out.println(1);
         if(board[1] == 1)System.out.println(2);
         if(board[2] == 1)System.out.println(3);
+        sc.close();
     }
 }

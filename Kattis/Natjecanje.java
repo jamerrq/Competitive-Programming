@@ -42,5 +42,6 @@ public class Natjecanje
             }
         }
         System.out.println(count);
+        sc.close();
     }
 }

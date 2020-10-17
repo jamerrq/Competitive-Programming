@@ -17,5 +17,6 @@ public class Parking2
             }
             System.out.println(2 * (max - min));
         }
+        sc.close();
     }
 }

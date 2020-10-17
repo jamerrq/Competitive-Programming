@@ -9,5 +9,6 @@ class Death_Knight_Hero{
             if(!b.contains("CD"))count++;
         }
         System.out.println(count);
+        s.close();
     }
 }

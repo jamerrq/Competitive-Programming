@@ -7,5 +7,6 @@ public class Quick_Estimates
             String s = sc.next();
             System.out.println(s.length());
         }
+        sc.close();
     }
 }

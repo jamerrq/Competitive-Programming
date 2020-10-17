@@ -20,5 +20,6 @@ public class Cetiri
                 System.out.println(nums[0] + abs);
             }
         }
+        sc.close();
     }
 }

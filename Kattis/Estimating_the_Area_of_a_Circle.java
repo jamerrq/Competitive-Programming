@@ -10,5 +10,6 @@ public class Estimating_the_Area_of_a_Circle
             double e = (c / m) * Math.pow(2 * r, 2);
             System.out.println(a + " " + e);
         }
+        sc.close();
     }
 }

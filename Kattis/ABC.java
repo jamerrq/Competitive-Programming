@@ -23,5 +23,6 @@ public class ABC
         String p = "";
         for(int l: o)p += l + " ";
         System.out.println(p.trim());
+        sc.close();
     }
 }

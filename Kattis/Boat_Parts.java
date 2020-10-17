@@ -15,5 +15,6 @@ public class Boat_Parts
         }
         if(items.size() < p)System.out.println("paradox avoided");
         else System.out.println(day);
+        sc.close();
     }
 }

@@ -31,5 +31,6 @@ public class Islands{
 			}
 		}
 		System.out.println(count);
+		sc.close();
 	}
 }

@@ -12,5 +12,6 @@ class Number_Fun{
             if(a + b == c || a - b == c || b - a == c || a * b == c || a * c == b || b * c == a)r = "Possible";
             System.out.println(r);
         }
+        s.close();
     }
 }

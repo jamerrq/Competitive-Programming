@@ -9,11 +9,12 @@ public class Cryptographers_Conundrum
                 if(message.charAt(i) != 'P')days++;
             }
             else if(i % 3 == 1){
-                if(message.charAt(i) != 'E')days++;                
+                if(message.charAt(i) != 'E')days++;
             }else{
                 if(message.charAt(i) != 'R')days++;
             }
         }
         System.out.println(days);
+        sc.close();
     }
 }

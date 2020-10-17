@@ -80,13 +80,14 @@ public class Eight_Queens{
 			for(int j = 0; j < 8; j++){
 				if(board[i][j] == '*'){
 					count++;
-					valid = NW(board, i - 1, j - 1) && NE(board, i - 1, j + 1) && SW(board, i + 1, j - 1) && SE(board, i + 1, j + 1) 
+					valid = NW(board, i - 1, j - 1) && NE(board, i - 1, j + 1) && SW(board, i + 1, j - 1) && SE(board, i + 1, j + 1)
 					&& N(board, i - 1, j) && W(board, i, j - 1) && E(board, i, j + 1) && S(board, i + 1, j);
-					if(!valid)def = false; 
+					if(!valid)def = false;
 		 	 	}
 			}
 		}
 		if(def && count == 8)System.out.println("valid");
 		else System.out.println("invalid");
+		sc.close();
 	}
 }

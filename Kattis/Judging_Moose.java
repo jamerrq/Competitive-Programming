@@ -13,5 +13,6 @@ public class Judging_Moose
                 System.out.println("Odd " + n);
             }
         }
+        sc.close();
     }
 }

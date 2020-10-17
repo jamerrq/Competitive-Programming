@@ -5,5 +5,6 @@ class Aaah
         String j = sc.next(), d = sc.next();
         if(j.contains(d))System.out.println("go");
         else System.out.println("no");
+        sc.close();
     }
 }

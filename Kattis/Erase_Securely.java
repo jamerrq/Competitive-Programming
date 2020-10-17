@@ -5,7 +5,7 @@ public class Erase_Securely{
 		String before = sc.next();
 		String after = sc.next();
 		String e = "";
-		for(int i = 0; i < before.length(); i++){
+		for(int i = 0; i < before.length() + n - n; i++){
 			if(before.charAt(i) == after.charAt(i)){
 				e += 2;
 			}else{
@@ -17,5 +17,6 @@ public class Erase_Securely{
 		}else{
 			System.out.println("Deletion succeeded");
 		}
+		sc.close();
 	}
 }

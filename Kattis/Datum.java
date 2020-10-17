@@ -28,18 +28,18 @@ public class Datum
             if(i % 7 == 5)Year.add("Tuesday");
             if(i % 7 == 6)Year.add("Wednesday");
         }
-        for(int i = 0; i < Jan.length; i++){Jan[i] = Year.get(0); Year.remove(0);}
-        for(int i = 0; i < Feb.length; i++){Feb[i] = Year.get(0); Year.remove(0);}
-        for(int i = 0; i < Mar.length; i++){Mar[i] = Year.get(0); Year.remove(0);}
-        for(int i = 0; i < Apr.length; i++){Apr[i] = Year.get(0); Year.remove(0);}
-        for(int i = 0; i < May.length; i++){May[i] = Year.get(0); Year.remove(0);}
-        for(int i = 0; i < Jun.length; i++){Jun[i] = Year.get(0); Year.remove(0);}
-        for(int i = 0; i < Jul.length; i++){Jul[i] = Year.get(0); Year.remove(0);}
-        for(int i = 0; i < Aug.length; i++){Aug[i] = Year.get(0); Year.remove(0);}
-        for(int i = 0; i < Sep.length; i++){Sep[i] = Year.get(0); Year.remove(0);}
-        for(int i = 0; i < Oct.length; i++){Oct[i] = Year.get(0); Year.remove(0);}
-        for(int i = 0; i < Nov.length; i++){Nov[i] = Year.get(0); Year.remove(0);}
-        for(int i = 0; i < Dec.length; i++){Dec[i] = Year.get(0); Year.remove(0);}
+        for(int i = 0;i < Jan.length;i++){Jan[i] = Year.get(0); Year.remove(0);}
+        for(int i = 0;i < Feb.length;i++){Feb[i] = Year.get(0); Year.remove(0);}
+        for(int i = 0;i < Mar.length;i++){Mar[i] = Year.get(0); Year.remove(0);}
+        for(int i = 0;i < Apr.length;i++){Apr[i] = Year.get(0); Year.remove(0);}
+        for(int i = 0;i < May.length;i++){May[i] = Year.get(0); Year.remove(0);}
+        for(int i = 0;i < Jun.length;i++){Jun[i] = Year.get(0); Year.remove(0);}
+        for(int i = 0;i < Jul.length;i++){Jul[i] = Year.get(0); Year.remove(0);}
+        for(int i = 0;i < Aug.length;i++){Aug[i] = Year.get(0); Year.remove(0);}
+        for(int i = 0;i < Sep.length;i++){Sep[i] = Year.get(0); Year.remove(0);}
+        for(int i = 0;i < Oct.length;i++){Oct[i] = Year.get(0); Year.remove(0);}
+        for(int i = 0;i < Nov.length;i++){Nov[i] = Year.get(0); Year.remove(0);}
+        for(int i = 0;i < Dec.length;i++){Dec[i] = Year.get(0); Year.remove(0);}
         if(month == 1)System.out.println(Jan[day - 1]);
         if(month == 2)System.out.println(Feb[day - 1]);
         if(month == 3)System.out.println(Mar[day - 1]);
@@ -52,5 +52,6 @@ public class Datum
         if(month == 10)System.out.println(Oct[day - 1]);
         if(month == 11)System.out.println(Nov[day - 1]);
         if(month == 12)System.out.println(Dec[day - 1]);
+        s.close();
     }
 }

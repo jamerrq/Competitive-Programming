@@ -6,5 +6,6 @@ public class Pizza_Crust
         double ar = Math.PI * Math.pow(r, 2), ac = Math.PI * Math.pow(r - c, 2);
         double percentage = (ac / ar) * 100;
         System.out.println(percentage);
+        sc.close();
     }
 }

@@ -9,5 +9,6 @@ public class Roaming_Romans{
     }else{
       System.out.println((int)rm);
     }
+    sc.close();
   }
 }

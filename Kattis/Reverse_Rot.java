@@ -23,5 +23,6 @@ public class Reverse_Rot
             }
             System.out.println(r);
         }
+        sc.close();
     }
 }

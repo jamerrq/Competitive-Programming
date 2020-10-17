@@ -13,5 +13,6 @@ class Ive_Been_Everywhere_Man{
             }
             System.out.println(cities.size());
         }
+        sc.close();
     }
 }

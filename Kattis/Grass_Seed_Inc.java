@@ -1,4 +1,4 @@
-public class Grass
+public class Grass_Seed_Inc
 {
     public static void main(String[] args){
         java.util.Scanner sc = new java.util.Scanner(System.in);
@@ -11,5 +11,6 @@ public class Grass
             total += area * cost;
         }
         System.out.println(total);
+        sc.close();
     }
 }

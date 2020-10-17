@@ -16,5 +16,6 @@ public class Volim
             }
         }
         System.out.println(k);
+        sc.close();
     }
 }
