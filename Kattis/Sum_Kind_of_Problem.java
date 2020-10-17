@@ -6,7 +6,7 @@ public class Sum_Kind_of_Problem
         int n = sc.nextInt();
         for(int i = 0; i < n; i++){
             int a = sc.nextInt();
-            int b = sc.nextInt();
+            int b = sc.nextInt() + a - a;
             int sum1 = 0;
             int sum2 = 0;
             int sum3 = 0;
