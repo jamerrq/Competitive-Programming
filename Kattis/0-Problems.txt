@@ -453,3 +453,9 @@ https://open.kattis.com/problems/synchronizinglists
 
 151. Tour de France
 https://open.kattis.com/problems/tourdefrance
+
+152. Closest Sums
+https://open.kattis.com/problems/closestsums
+
+153. Kitten on a Tree
+https://open.kattis.com/problems/kitten
