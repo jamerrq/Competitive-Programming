@@ -459,3 +459,6 @@ https://open.kattis.com/problems/closestsums
 
 153. Kitten on a Tree
 https://open.kattis.com/problems/kitten
+
+154. Identifying Map Tiles
+https://open.kattis.com/problems/maptiles2
