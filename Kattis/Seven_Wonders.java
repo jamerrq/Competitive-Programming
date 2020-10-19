@@ -15,5 +15,6 @@ class Seven_Wonders{
         int min = Math.min(Math.min(t,c),g);
         sum += min * 7;
         System.out.println(sum);
+        s.close();
     }
 }

@@ -8,5 +8,6 @@ public class A_Different_Problem
             long b = sc.nextLong();
             System.out.println(Math.abs(a - b));
         }
+        sc.close();
     }
 }

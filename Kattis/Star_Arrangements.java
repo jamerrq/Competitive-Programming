@@ -22,5 +22,6 @@ public class Star_Arrangements
                 }
             }
         }
+        sc.close();
     }
 }

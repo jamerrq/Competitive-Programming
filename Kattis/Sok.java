@@ -7,6 +7,7 @@ public class Sok
     	double ra = A / a, rb = B / b, rc = C / c;
     	double rmin = Math.min(ra, Math.min(rb, rc));
     	double ca = A - (a * rmin), cb = B - (b * rmin), cc = C - (c * rmin);
-    	System.out.println(ca + " " + cb + " " + cc);
+		System.out.println(ca + " " + cb + " " + cc);
+		sc.close();
     }
 }

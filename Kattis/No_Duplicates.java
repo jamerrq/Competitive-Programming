@@ -11,8 +11,9 @@ public class No_Duplicates
                 break;
             }else{
                 words.add(word);
-            }            
+            }
         }
         if(repeated)System.out.println("no"); else System.out.println("yes");
+        sc.close();
     }
 }

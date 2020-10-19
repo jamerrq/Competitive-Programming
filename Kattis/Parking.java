@@ -19,5 +19,6 @@ public class Parking
             else if(trucks[i] == 3)total += c * 3;
         }
         System.out.println(total);
+        sc.close();
     }
 }

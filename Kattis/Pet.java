@@ -6,7 +6,7 @@ class Pet{
         int max = 0;
         int pos = 0;
         for(int i = 0; i < 5; i++){
-            int sum = 0;
+            // int sum = 0;
             for(int j = 0; j < 4; j++){
                 int n = s.nextInt();
                 players[i] += n;
@@ -14,5 +14,6 @@ class Pet{
             if(players[i] > max){max = players[i]; pos = i;}
         }
         System.out.println(pos + 1 + " " + max);
+        s.close();
     }
 }

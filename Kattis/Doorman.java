@@ -9,18 +9,22 @@ public class Doorman
         for(int i = 0; i < queue.length(); i++){
             if(queue.charAt(i) == 'W'){
                 if(in + 1 > n){
-                    if(i == queue.length() - 1 || queue.charAt(i + 1) == queue.charAt(i)){
+                    if(i == queue.length() - 1 ||
+                       queue.charAt(i + 1) == queue.charAt(i)){
                         break;
                     }else{
-                        queue = queue.substring(0,i) + "MW" + queue.substring(i + 2);
+                        queue = queue.substring(0,i) + "MW" +
+                        queue.substring(i + 2);
                     }
                 }
             }else{
                 if(in - 1 < -n){
-                    if(i == queue.length() - 1 || queue.charAt(i + 1) == queue.charAt(i)){
+                    if(i == queue.length() - 1 ||
+                    queue.charAt(i + 1) == queue.charAt(i)){
                         break;
                     }else{
-                        queue = queue.substring(0,i) + "WM" + queue.substring(i + 2);
+                        queue = queue.substring(0,i) + "WM" +
+                        queue.substring(i + 2);
                     }
                 }
             }
@@ -30,5 +34,6 @@ public class Doorman
             count++;
         }
         System.out.println(count);
+        sc.close();
     }
 }

@@ -5,5 +5,6 @@ class Hissing_Microphone{
         String m = s.next();
         if(m.contains("ss"))System.out.println("hiss");
         else System.out.println("no hiss");
+        s.close();
     }
 }

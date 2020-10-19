@@ -15,5 +15,6 @@ public class Alphabet_Spam
         System.out.println(lc / l.length());
         System.out.println(uc / l.length());
         System.out.println(sy / l.length());
+        sc.close();
     }
 }

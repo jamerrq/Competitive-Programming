@@ -6,5 +6,6 @@ class Faktor{
 		int i = s.nextInt();
 		int m = a * (i - 1) + 1;
 		System.out.println(m);
+		s.close();
 	}
 }

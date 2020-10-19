@@ -6,7 +6,7 @@ public class Bela
         String d = sc.next();
         for(int i = 0; i < 4 * n; i++){
             String card = sc.next();
-            String number = card.substring(0,1); 
+            String number = card.substring(0,1);
             String suit = card.substring(1);
             if(number.equals("A"))sum += 11;
             if(number.equals("K"))sum += 4;
@@ -19,5 +19,6 @@ public class Bela
             if(number.equals("9") && suit.equals(d))sum += 14;
         }
         System.out.println(sum);
+        sc.close();
     }
 }

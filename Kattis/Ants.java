@@ -19,6 +19,7 @@ public class Ants{
 			}
 			int tmax = cross(max, min, l, 0);
 			System.out.println(Math.min(Math.abs(l - mid), mid) + " " + tmax);
+			sc.close();
 		}
 	}
 }

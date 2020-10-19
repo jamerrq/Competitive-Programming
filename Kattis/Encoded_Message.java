@@ -22,5 +22,6 @@ public class Encoded_Message
             }
             System.out.println(dc);
         }
+        sc.close();
     }
 }

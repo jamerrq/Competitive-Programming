@@ -1,4 +1,4 @@
-public class Speed
+public class Speed_Limit
 {
     public static void main(String[] args){
         java.util.Scanner sc = new java.util.Scanner(System.in);
@@ -13,5 +13,6 @@ public class Speed
             }
             System.out.println(k + " miles");
         }
+        sc.close();
     }
 }

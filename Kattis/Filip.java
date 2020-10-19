@@ -13,5 +13,6 @@ class Filip{
         for(int i = 0; i < sb.length(); i++)c += sb.charAt(sb.length() - i - 1);
         b = Integer.parseInt(c);
         System.out.println(Math.max(a,b));
+        s.close();
     }
 }

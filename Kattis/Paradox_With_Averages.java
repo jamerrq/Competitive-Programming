@@ -3,7 +3,7 @@ public class Paradox_With_Averages
     static boolean joke(double ncs, double ne, double ccs, double ce, double s){
         return (ccs - s) / (ncs - 1) > ccs / ncs && (ce + s) / (ne + 1) > ce / ne;
     }
-    
+
     public static void main(String[] args){
         java.util.Scanner sc = new java.util.Scanner(System.in);
         int cases = sc.nextInt();
@@ -28,5 +28,6 @@ public class Paradox_With_Averages
             }
             System.out.println(count);
         }
+        sc.close();
     }
 }

@@ -1,15 +1,16 @@
 public class Kornislav
 {
     static int area(int a, int b, int c, int d){
-        int area = 0, x = 0, y = 0;
+        int x = 0, y = 0;
         x += a; y += b; x -= c; y -= d;
         if(x <= 0 && y <= 0)return Math.min(a, c) * Math.min(b, d);
         else return -1;
     }
-    
+
     public static void main(String[] args){
         java.util.Scanner sc = new java.util.Scanner(System.in);
-        int a = sc.nextInt(), b = sc.nextInt(), c = sc.nextInt(), d = sc.nextInt();
+        int a = sc.nextInt(), b = sc.nextInt(),
+            c = sc.nextInt(), d = sc.nextInt();
         int max = 0;
         //
         max = Math.max(max, area(a, b, c, d));
@@ -41,5 +42,6 @@ public class Kornislav
         max = Math.max(max, area(d, a, c, b));
         //
         System.out.println(max);
+        sc.close();
     }
 }

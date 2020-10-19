@@ -7,7 +7,7 @@ public class Prva
         if(a.charAt(0) < b.charAt(0))return true;
         return false;
     }
-    
+
     public static void main(String[] args){
         java.util.Scanner sc = new java.util.Scanner(System.in);
         int numRows = sc.nextInt(), numCols = sc.nextInt();
@@ -38,6 +38,7 @@ public class Prva
             }
         }
         System.out.println(word);
+        sc.close();
     }
     // 4 4 luka o#a# kula i#a# : kala
     // 4 4 luka o#a# kula i#as : as

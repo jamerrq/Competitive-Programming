@@ -38,5 +38,6 @@ public class Bus_Numbers
             s += t + " ";
         }
         System.out.println(s.trim());
+        sc.close();
     }
 }

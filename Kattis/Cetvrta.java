@@ -19,5 +19,6 @@ public class Cetvrta
             }
         }
         System.out.println(points[0][3] + " " + points[1][3]);
+        sc.close();
     }
 }

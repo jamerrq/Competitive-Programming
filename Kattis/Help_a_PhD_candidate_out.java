@@ -18,5 +18,6 @@ class Help_a_PhD_candidate_out{
                 System.out.println(Integer.parseInt(b) + Integer.parseInt(a));
             }
         }
+        s.close();
     }
 }

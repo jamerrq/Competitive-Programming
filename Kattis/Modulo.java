@@ -9,5 +9,6 @@ class Modulo{
             if(!nums.contains(n % 42))nums.add(n % 42);
         }
         System.out.println(nums.size());
+        s.close();
     }
 }

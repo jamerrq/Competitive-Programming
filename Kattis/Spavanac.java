@@ -11,5 +11,6 @@ public class Spavanac
             m -= 45;
         }
         System.out.println(h + " " + m);
+        sc.close();
     }
 }

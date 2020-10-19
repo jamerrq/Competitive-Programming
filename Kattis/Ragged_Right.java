@@ -14,5 +14,6 @@ public class Ragged_Right
             measure += Math.pow(n - lines.get(i).length(), 2);
         }
         System.out.println(measure);
+        sc.close();
     }
 }

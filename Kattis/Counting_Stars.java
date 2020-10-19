@@ -11,7 +11,7 @@ public class Counting_Stars
             }
         }
     }
-    
+
     public static void main(String[] args){
         java.util.Scanner sc = new java.util.Scanner(System.in);
         int caseNumber = 1;
@@ -36,5 +36,6 @@ public class Counting_Stars
             System.out.println("Case " + caseNumber + ": " + count);
             caseNumber++;
         }
+        sc.close();
     }
 }

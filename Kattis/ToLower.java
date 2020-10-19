@@ -14,5 +14,6 @@ public class ToLower
             if(count == t)total++;
         }
         System.out.println(total);
+        sc.close();
     }
 }

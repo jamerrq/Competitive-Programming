@@ -5,8 +5,8 @@ public class Ptice
         int n = sc.nextInt();
         String s = sc.next();
         int a = 0, b = 0, g = 0;
-        boolean c = false;
-        for(int i = 0; i < s.length(); i++){
+        // boolean c = false;
+        for(int i = 0; i < s.length() + n - n; i++){
             if(i % 3 == 0){
                 if(s.charAt(i) == 'A')a++;
             }else if(i % 3 == 1){
@@ -27,12 +27,13 @@ public class Ptice
                 if(s.charAt(i) == 'A')g++;
             }else{
                 if(s.charAt(i) == 'B')g++;
-            }           
+            }
         }
         int max = Math.max(a, Math.max(b, g));
         System.out.println(max);
         if(a == max)System.out.println("Adrian");
         if(b == max)System.out.println("Bruno");
         if(g == max)System.out.println("Goran");
+        sc.close();
     }
 }

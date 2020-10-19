@@ -10,5 +10,6 @@ class Pot{
             sum += (int)(Math.pow((a / 10), b));
         }
         System.out.println(sum);
+        s.close();
     }
 }

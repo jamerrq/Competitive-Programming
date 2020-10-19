@@ -273,3 +273,15 @@ https://codeforces.com/problemset/problem/1385/A
 
 91. Yet Another Two Integers Problem
 https://codeforces.com/problemset/problem/1409/A
+
+92. Aramic script
+https://codeforces.com/problemset/problem/975/A
+
+93. Cards
+https://codeforces.com/problemset/problem/1220/A
+
+94. Facetook Priority Wall
+https://codeforces.com/problemset/problem/75/B
+
+95. Badge
+https://codeforces.com/problemset/problem/1020/B

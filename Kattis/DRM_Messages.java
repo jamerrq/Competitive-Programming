@@ -11,11 +11,11 @@ public class DRM_Messages
         }
         return r;
     }
-    
+
     static char rotate(char c, char rotate){
         return (char)(((c - 65 + rotate - 65) % 26) + 65);
     }
-    
+
     static String merge(String a, String b){
         String c = "";
         for(int i = 0; i < a.length(); i++){
@@ -30,5 +30,6 @@ public class DRM_Messages
         String a = rotate(message.substring(0,message.length() / 2));
         String b = rotate(message.substring(message.length() / 2));
         System.out.println(merge(a, b));
+        sc.close();
     }
 }

@@ -441,3 +441,24 @@ https://open.kattis.com/problems/fiftyshades
 
 148. Cudoviste
 https://open.kattis.com/problems/cudoviste
+
+149. Job Expenses
+https://open.kattis.com/problems/jobexpenses
+
+150. Chanukah Challenge
+https://open.kattis.com/problems/chanukah
+
+151. Synchronizing Lists
+https://open.kattis.com/problems/synchronizinglists
+
+151. Tour de France
+https://open.kattis.com/problems/tourdefrance
+
+152. Closest Sums
+https://open.kattis.com/problems/closestsums
+
+153. Kitten on a Tree
+https://open.kattis.com/problems/kitten
+
+154. Identifying Map Tiles
+https://open.kattis.com/problems/maptiles2

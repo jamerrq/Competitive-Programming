@@ -19,5 +19,6 @@ class Stand_on_Zanzibar{
 			}
 			System.out.println(e);
 		}
+		s.close();
 	}
 }

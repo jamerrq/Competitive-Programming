@@ -1,4 +1,4 @@
-public class Cups
+public class Stacking_Cups
 {
     public static void main(String[] args){
         java.util.Scanner sc = new java.util.Scanner(System.in);
@@ -30,5 +30,6 @@ public class Cups
         for(int i = 0; i < n; i++){
             System.out.println(cups[i]);
         }
+        sc.close();
     }
 }
