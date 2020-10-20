@@ -11,4 +11,3 @@ while f2 < 4e6:
         fs += f2
 
 print(fs)
-
