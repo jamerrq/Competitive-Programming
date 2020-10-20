@@ -1,41 +1,161 @@
-1. Love Triangle
-https://vjudge.net/contest/366987#problem
+1. As Long as I Learn, I Live
+https://vjudge.net/contest/382846#problem/A
 
-2. Metro
-https://vjudge.net/contest/366987#problem/B
+2. Balanced Brackets
+https://vjudge.net/contest/389436#problem/E
 
-3. Rook, Bishop and King
-https://vjudge.net/contest/366987#problem/C
+3. Birthday Chocolate
+https://vjudge.net/contest/389436#problem/A
 
-4. Friends
-https://vjudge.net/contest/366987#problem/D
-
-5. The Department of Redundancy Department
-https://vjudge.net/contest/215682#problem/A
-
-6. Throwing cards away I
-https://vjudge.net/contest/215682#problem/E
-
-7. Hit the Lottery
-https://vjudge.net/contest/366119#problem/A
-
-8. Even Subset Sum Problem
-https://vjudge.net/contest/366119#problem/B
-
-9. Make Product Equal One
-https://vjudge.net/contest/366119#problem/C
-
-10. Filling Shapes
-https://vjudge.net/contest/366119#problem/D
-
-11. Just Eat It!
-https://vjudge.net/contest/366119#problem/E
-
-12. Letter
-https://vjudge.net/contest/366119#problem/F
-
-13. Boredom
+4. Boredom
 https://vjudge.net/contest/366119#problem/G
 
-14. Presents
+5. Breadth First Search: Shortest Reach
+https://vjudge.net/contest/394725#problem/E
+
+6. Bus Video System
+https://vjudge.net/contest/364468#problem/E
+
+7. Contest for Robots
+https://vjudge.net/contest/391634#problem/C
+
+8. Counting Valleys
+https://vjudge.net/contest/389436#problem/C
+
+9. Cutting Sticks
+https://vjudge.net/
+
+10. DFS: Connected Cell in a Grid
+https://vjudge.net/contest/394725#problem/C
+
+11. Decoding
+https://vjudge.net/contest/380550#problem/D
+
+12. Easter eggs
+https://vjudge.net/contest/380550#problem/F
+
+13. Even Subset Sum Problem
+https://vjudge.net/contest/366119#problem/B
+
+14. Filling Shapes
+https://vjudge.net/contest/366119#problem/D
+
+15. Foreign Exchange
+https://vjudge.net/contest/380550#problem/L
+
+16. Friends
+https://vjudge.net/contest/366987#problem/D
+
+17. Greedy Florist
+https://vjudge.net/contest/391634#problem/G
+
+18. Hardwood Species
+https://vjudge.net/contest/390904#problem/G
+
+19. Hit the Lottery
+https://vjudge.net/contest/366119#problem/A
+
+20. Hot Days
+https://vjudge.net/contest/391634#problem/B
+
+21. Johnny and Ancient Computer
+https://vjudge.net/contest/380550#problem/K
+
+22. Journey to the Moon
+https://vjudge.net/contest/394725#problem/D
+
+23. Just Eat It!
+https://vjudge.net/contest/366119#problem/E
+
+24. K Factorization
+https://vjudge.net/contest/394725#problem/A
+
+25. Letter
+https://vjudge.net/contest/366119#problem/F
+
+26. Letters
+https://vjudge.net/contest/364468#problem/C
+
+27. Love Triangle
+https://vjudge.net/contest/366987#problem
+
+28. Luck Balance
+https://vjudge.net/contest/391634#problem/D
+
+29. Lucky Numbers
+https://vjudge.net/
+
+30. Make Product Equal One
+https://vjudge.net/contest/366119#problem/C
+
+31. Mark and Toys
+https://vjudge.net/contest/391634#problem/E
+
+32. Max Min
+https://vjudge.net/contest/391634#problem/F
+
+33. Maximum Sub-sequence Product
+https://vjudge.net/
+
+34. Metro
+https://vjudge.net/contest/366987#problem/B
+
+35. Obtain Two Zeros
+https://vjudge.net/
+
+36. Pairs
+https://vjudge.net/contest/380550#problem/G
+
+37. Parentheses Balance
+https://vjudge.net/contest/380550#problem/J
+
+38. Pasha and Stick
+https://vjudge.net/
+
+39. Presents
 https://vjudge.net/contest/368331#problem/C
+
+40. Ransom Notes
+https://vjudge.net/contest/380550#problem/A
+
+41. Remove Duplicates
+https://vjudge.net/contest/364468#problem/A
+
+42. Required Remainder
+https://vjudge.net/
+
+43. Robot Motion
+https://vjudge.net/contest/382846#problem/C
+
+44. Rook, Bishop and King
+https://vjudge.net/contest/366987#problem/C
+
+45. Scarecrow
+https://vjudge.net/contest/391634#problem/A
+
+46. Second Order Statistics
+https://vjudge.net/contest/380550#problem/I
+
+47. Simple Text Editor
+https://vjudge.net/contest/380550#problem/C
+
+48. Staircase
+https://vjudge.net/contest/380550#problem/E
+
+49. Strings: Making Anagrams
+https://vjudge.net/contest/389436#problem/D
+
+50. The Department of Redundancy Department
+https://vjudge.net/contest/215682#problem/A
+
+51. Throwing cards away I
+https://vjudge.net/contest/215682#problem/E
+
+52. Two Strings
+https://vjudge.net/contest/380550#problem/B
+
+53. Vacations
+https://vjudge.net/contest/391634#problem/H
+
+54. Wedding of Sultan
+https://vjudge.net/contest/382846#problem/B

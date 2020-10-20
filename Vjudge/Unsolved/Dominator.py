@@ -21,3 +21,4 @@ for _ in range(T):
     N = int(sys.stdin.readline())
     M = [readList() for _ in range(N)]
     print(is_dominator(0, 4, M))
+

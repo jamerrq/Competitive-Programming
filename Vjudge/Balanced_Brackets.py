@@ -21,26 +21,31 @@ t = int(sys.stdin.readline())
 for _ in range(t):
     s = sys.stdin.readline().strip()
     q = Queue()
-    ans = 'Yes'
+    ans = 'YES'
     for char in s:
-        if char == '(' or char == '[':
+        if char == '(' or char == '[' or char == '{':
             q.put(char)
         else:
             last = q.pop()
             if last is None:
-                ans = 'No'
+                ans = 'NO'
                 break
             if char == ')':
                 if last != '(':
-                    ans = 'No'
+                    ans = 'NO'
+                    break
+
+            elif char == ']':
+                if last != '[':
+                    ans = 'NO'
                     break
 
             else:
-                if last != '[':
-                    ans = 'No'
+                if last != '{':
+                    ans = 'NO'
                     break
 
     if len(q.queue) > 0:
-        ans = 'No'
+        ans = 'NO'
 
     print(ans)
