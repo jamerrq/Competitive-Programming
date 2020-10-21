@@ -285,3 +285,18 @@ https://codeforces.com/problemset/problem/75/B
 
 95. Badge
 https://codeforces.com/problemset/problem/1020/B
+
+96. Boring Apartmetns
+https://codeforces.com/contest/1433/problem/A
+
+97. Yet Another Bookshelf
+https://codeforces.com/contest/1433/problem/B
+
+98. Dominant Piranha
+https://codeforces.com/contest/1433/problem/C
+
+99. Districts Connection
+https://codeforces.com/contest/1433/problem/D
+
+100. Guess The Number
+https://codeforces.com/gym/101021/problem/1
