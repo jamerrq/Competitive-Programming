@@ -466,3 +466,8 @@ https://open.kattis.com/problems/whatdoesthefoxsay
 156. Zamka
 https://open.kattis.com/problems/zamka
 
+157. Troll Hunt
+https://open.kattis.com/problems/trollhunt
+
+158. The Dragon of Loowater
+https://open.kattis.com/problems/loowater

@@ -1,4 +1,4 @@
-public class Printers
+public class TD_Printed_Statues
 {
     static int n;
 
