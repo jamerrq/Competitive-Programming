@@ -11,5 +11,6 @@ public class TD_Printed_Statues
         java.util.Scanner sc = new java.util.Scanner(System.in);
         n = sc.nextInt();
         System.out.println(printers(1, 0, n));
+        sc.close();
     }
 }
