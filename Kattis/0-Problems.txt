@@ -43,443 +43,464 @@ https://open.kattis.com/problems/autori
 15. Avion
 https://open.kattis.com/problems/avion
 
-16. Batter Up
+16. Basketball One-by-One
+https://open.kattis.com/problems/basketballoneonone
+
+17. Batter Up
 https://open.kattis.com/problems/batterup
 
-17. Beekeper
+18. Beekeper
 https://open.kattis.com/problems/beekeeper
 
-18. Bela
+19. Bela
 https://open.kattis.com/problems/bela
 
-19. Bijele
+20. Bijele
 https://open.kattis.com/problems/bijele
 
-20. Boat Parts
+21. Boat Parts
 https://open.kattis.com/problems/boatparts
 
-21. Bus Numbers
+22. Bus Numbers
 https://open.kattis.com/problems/busnumbers
 
-22. Card Trick
+23. Card Trick
 https://open.kattis.com/problems/cardtrick2
 
-23. Cetiri
+24. Cetiri
 https://open.kattis.com/problems/cetiri
 
-24. Cetvrta
+25. Cetvrta
 https://open.kattis.com/problems/cetvrta
 
-25. Chanukah Challenge
+26. Chanukah Challenge
 https://open.kattis.com/problems/chanukah
 
-26. Chess
+27. Chess
 https://open.kattis.com/problems/chess
 
-27. Closest Sums
+28. Closest Sums
 https://open.kattis.com/problems/closestsums
 
-28. Closing the Loop
+29. Closing the Loop
 https://open.kattis.com/problems/closingtheloop
 
-29. Cold-puter Science
+30. Cold-puter Science
 https://open.kattis.com/problems/cold
 
-30. Counting Stars
+31. Coloring Socks
+https://open.kattis.com/problems/color
+
+32. Counting Stars
 https://open.kattis.com/problems/countingstars
 
-31. Cryptographer's Conundrum
+33. Cryptographer's Conundrum
 https://open.kattis.com/problems/conundrum
 
-32. Cudoviste
+34. Cudoviste
 https://open.kattis.com/problems/cudoviste
 
-33. DRM Messages
+35. DRM Messages
 https://open.kattis.com/problems/drmmessages
 
-34. Datum
+36. Datum
 https://open.kattis.com/problems/datum
 
-35. Death Knight Hero
+37. Death Knight Hero
 https://open.kattis.com/problems/deathknight
 
-36. Detailed Differences
+38. Detailed Differences
 https://open.kattis.com/problems/detaileddifferences
 
-37. Dice Cup
+39. Dice Cup
 https://open.kattis.com/problems/dicecup
 
-38. Dice Game
+40. Dice Game
 https://open.kattis.com/problems/dicegame
 
-39. Different Distances
+41. Different Distances
 https://open.kattis.com/problems/differentdistances
 
-40. Doorman
+42. Doorman
 https://open.kattis.com/problems/doorman
 
-41. Eight Queens
+43. Eeny Meeny
+https://open.kattis.com/problems/eenymeeny
+
+44. Eight Queens
 https://open.kattis.com/problems/8queens
 
-42. Elegibility
+45. Electrical Outlets
+https://open.kattis.com/problems/electricaloutlets
+
+46. Elegibility
 https://open.kattis.com/problems/eligibility
 
-43. Encoded Message
+47. Encoded Message
 https://open.kattis.com/problems/encodedmessage
 
-44. Erase Securely
+48. Erase Securely
 https://open.kattis.com/problems/erase
 
-45. Estimating the Area of a Circle
+49. Estimating the Area of a Circle
 https://open.kattis.com/problems/estimatingtheareaofacircle
 
-46. Faktor
+50. Faktor
 https://open.kattis.com/problems/faktor
 
-47. Falling Apart
+51. Falling Apart
 https://open.kattis.com/problems/fallingapart
 
-48. False Sense of Security
+52. False Sense of Security
 https://open.kattis.com/problems/falsesecurity
 
-49. Fifty Shades of Pink
+53. Fifty Shades of Pink
 https://open.kattis.com/problems/fiftyshades
 
-50. Filip
+54. Filip
 https://open.kattis.com/problems/filip
 
-51. FizzBuzz
+55. FizzBuzz
 https://open.kattis.com/problems/fizzbuzz
 
-52. Free Food
+56. Free Food
 https://open.kattis.com/problems/freefood
 
-53. Gerrymandering
+57. Gerrymandering
 https://open.kattis.com/problems/gerrymandering
 
-54. Grass Seed Inc.
+58. Grass Seed Inc.
 https://open.kattis.com/problems/grassseed
 
-55. Hanging Out on the Terrace
+59. Hanging Out on the Terrace
 https://open.kattis.com/problems/hangingout
 
-56. Harshad Numbers
+60. Harshad Numbers
 https://open.kattis.com/problems/harshadnumbers
 
-57. Heart Rate
+61. Heart Rate
 https://open.kattis.com/problems/heartrate
 
-58. Hello World
+62. Hello World
 https://open.kattis.com/problems/hello
 
-59. Help a PhD candidate out
+63. Help a PhD candidate out
 https://open.kattis.com/problems/helpaphd
 
-60. Herman
+64. Herman
 https://open.kattis.com/problems/herman
 
-61. Hissing Microphone
+65. Hissing Microphone
 https://open.kattis.com/problems/hissingmicrophone
 
-62. Honour Thy (Apaxian) Parent
+66. Honour Thy (Apaxian) Parent
 https://open.kattis.com/problems/apaxianparent
 
-63. I've Been Everywhere, Man
+67. I've Been Everywhere, Man
 https://open.kattis.com/problems/everywhere
 
-64. ICPC Awards
+68. ICPC Awards
 https://open.kattis.com/problems/icpcawards
 
-65. Identifying Map Tiles
+69. Identifying Map Tiles
 https://open.kattis.com/problems/maptiles2
 
-66. IsItHalloween.com
+70. IsItHalloween.com
 https://open.kattis.com/problems/isithalloween
 
-67. Islands
+71. Islands
 https://open.kattis.com/problems/islands3
 
-68. Job Expenses
+72. Job Expenses
 https://open.kattis.com/problems/jobexpenses
 
-69. Judging Moose
+73. Judging Moose
 https://open.kattis.com/problems/judgingmoose
 
-70. Jumbled Compass
+74. Jumbled Compass
 https://open.kattis.com/problems/compass
 
-71. Karte
+75. Karte
 https://open.kattis.com/problems/karte
 
-72. Kemija
+76. Kemija
 https://open.kattis.com/problems/kemija08
 
-73. Kitten on a Tree
+77. Kitten on a Tree
 https://open.kattis.com/problems/kitten
 
-74. Kornislav
+78. Kornislav
 https://open.kattis.com/problems/kornislav
 
-75. Ladder
+79. Ladder
 https://open.kattis.com/problems/ladder
 
-76. Last Factorial Digit
+80. Last Factorial Digit
 https://open.kattis.com/problems/lastfactorialdigit
 
-77. Left Beehind
+81. Left Beehind
 https://open.kattis.com/problems/leftbeehind
 
-78. License to Launch
+82. License to Launch
 https://open.kattis.com/problems/licensetolaunch
 
-79. Lost Lineup
+83. Lost Lineup
 https://open.kattis.com/problems/lostlineup
 
-80. Luhn's Checksum Algorithm
+84. Luhn's Checksum Algorithm
 https://open.kattis.com/problems/luhnchecksum
 
-81. Mandelbrot
+85. Mandelbrot
 https://open.kattis.com/problems/mandelbrot
 
-82. Mars Window
+86. Mars Window
 https://open.kattis.com/problems/marswindow
 
-83. Maximum Rent
+87. Maximum Rent
 https://open.kattis.com/problems/maximumrent
 
-84. Mixed Fractions
+88. Missing Numbers
+https://open.kattis.com/problems/missingnumbers
+
+89. Mixed Fractions
 https://open.kattis.com/problems/mixedfractions
 
-85. Modulo
+90. Modulo
 https://open.kattis.com/problems/modulo
 
-86. Musical Scales
+91. Musical Scales
 https://open.kattis.com/problems/musicalscales
 
-87. Nasty Hacks
+92. Nasty Hacks
 https://open.kattis.com/problems/nastyhacks
 
-88. Natjecanje
+93. Natjecanje
 https://open.kattis.com/problems/natjecanje
 
-89. Nine Knights
+94. Nine Knights
 https://open.kattis.com/problems/nineknights
 
-90. No Duplicates
+95. No Duplicates
 https://open.kattis.com/problems/nodup
 
-91. Number Fun
+96. Number Fun
 https://open.kattis.com/problems/numberfun
 
-92. Odd Gnome
+97. Odd Gnome
 https://open.kattis.com/problems/oddgnome
 
-93. Odd Man Out
+98. Odd Man Out
 https://open.kattis.com/problems/oddmanout
 
-94. Oddities
+99. Oddities
 https://open.kattis.com/problems/oddities
 
-95. One Chicken Per Person!
+100. One Chicken Per Person!
 https://open.kattis.com/problems/onechicken
 
-96. Paradox With Averages
+101. Paradox With Averages
 https://open.kattis.com/problems/averageseasy
 
-97. Parking
+102. Parking
 https://open.kattis.com/problems/parking
 
-98. Parking
+103. Parking
 https://open.kattis.com/problems/parking2
 
-99. Patuljci
+104. Patuljci
 https://open.kattis.com/problems/patuljci
 
-100. Pet
+105. Pet
 https://open.kattis.com/problems/pet
 
-101. Piece of Cake!
+106. Piece of Cake!
 https://open.kattis.com/problems/pieceofcake2
 
-102. Pizza Crust
+107. Pizza Crust
 https://open.kattis.com/problems/pizza2
 
-103. Planina
+108. Planina
 https://open.kattis.com/problems/planina
 
-104. Poker Hand
+109. Poker Hand
 https://open.kattis.com/problems/pokerhand
 
-105. Pot
+110. Pot
 https://open.kattis.com/problems/pot
 
-106. Provinces and Gold
+111. Provinces and Gold
 https://open.kattis.com/problems/provincesandgold
 
-107. Prva
+112. Prva
 https://open.kattis.com/problems/prva
 
-108. Ptice
+113. Ptice
 https://open.kattis.com/problems/ptice
 
-109. Quadrant Selection
+114. Quadrant Selection
 https://open.kattis.com/problems/quadrant
 
-110. Quality-Adjusted Life-Year
+115. Quality-Adjusted Life-Year
 https://open.kattis.com/problems/qaly
 
-111. Quick Brown Fox
+116. Quick Brown Fox
 https://open.kattis.com/problems/quickbrownfox
 
-112. Quick Estimates
+117. Quick Estimates
 https://open.kattis.com/problems/quickestimate
 
-113. R2
+118. R2
 https://open.kattis.com/problems/r2
 
-114. Ragged Right
+119. Ragged Right
 https://open.kattis.com/problems/raggedright
 
-115. Railroad
+120. Railroad
 https://open.kattis.com/problems/railroad2
 
-116. Reverse Rot
+121. Reseto
+https://open.kattis.com/problems/reseto
+
+122. Reverse Rot
 https://open.kattis.com/problems/reverserot
 
-117. Reversed Binary Numbers
+123. Reversed Binary Numbers
 https://open.kattis.com/problems/reversebinary
 
-118. Riječi
+124. Riječi
 https://open.kattis.com/problems/rijeci
 
-119. Roaming Romans
+125. Roaming Romans
 https://open.kattis.com/problems/romans
 
-120. Server
+126. Server
 https://open.kattis.com/problems/server
 
-121. Seven Wonders
+127. Seven Wonders
 https://open.kattis.com/problems/sevenwonders
 
-122. Sibice
+128. Sibice
 https://open.kattis.com/problems/sibice
 
-123. Simon
+129. Simon
 https://open.kattis.com/problems/simon
 
-124. Simon Says
+130. Simon Says
 https://open.kattis.com/problems/simonsays
 
-125. Skener
+131. Skener
 https://open.kattis.com/problems/skener
 
-126. Skocimis
+132. Skocimis
 https://open.kattis.com/problems/skocimis
 
-127. Soda Slurper
+133. Soda Slurper
 https://open.kattis.com/problems/sodaslurper
 
-128. Sok
+134. Sok
 https://open.kattis.com/problems/sok
 
-129. Solving for Carrots
+135. Solving for Carrots
 https://open.kattis.com/problems/carrots
 
-130. Soylent
+136. Soylent
 https://open.kattis.com/problems/soylent
 
-131. Spavanac
+137. Spavanac
 https://open.kattis.com/problems/spavanac
 
-132. Speed Limit
+138. Speed Limit
 https://open.kattis.com/problems/speedlimit
 
-133. Stacking Cups
+139. Stacking Cups
 https://open.kattis.com/problems/cups
 
-134. Stand on Zanzibar
+140. Stand on Zanzibar
 https://open.kattis.com/problems/zanzibar
 
-135. Star Arrangements
+141. Star Arrangements
 https://open.kattis.com/problems/stararrangements
 
-136. Stuck In A Time Loop
+142. Stuck In A Time Loop
 https://open.kattis.com/problems/timeloop
 
-137. Sum Kind of Problem
+143. Sum Kind of Problem
 https://open.kattis.com/problems/sumkindofproblem
 
-138. Sum Squared Digits Function
+144. Sum Squared Digits Function
 https://open.kattis.com/problems/sumsquareddigits
 
-139. Symmetric Order
+145. Symmetric Order
 https://open.kattis.com/problems/symmetricorder
 
-140. Synchronizing Lists
+146. Synchronizing Lists
 https://open.kattis.com/problems/synchronizinglists
 
-141. Tai's formula
+147. Tai's formula
 https://open.kattis.com/problems/taisformula
 
-142. Take Two Stones
+148. Take Two Stones
 https://open.kattis.com/problems/twostones
 
-143. Tarifa
+149. Tarifa
 https://open.kattis.com/problems/tarifa
 
-144. Temperature Confusion
+150. Temperature Confusion
 https://open.kattis.com/problems/temperatureconfusion
 
-145. The Amazing Human Cannonball
+151. Tetration
+https://open.kattis.com/problems/tetration
+152. The Amazing Human Cannonball
 https://open.kattis.com/problems/humancannonball2
 
-146. The Dragon of Loowater
+153. The Dragon of Loowater
 https://open.kattis.com/problems/loowater
 
-147. The Easiest Problem Is This One
+154. The Easiest Problem Is This One
 https://open.kattis.com/problems/easiest
 
-148. The Key to Cryptography
+155. The Key to Cryptography
 https://open.kattis.com/problems/keytocrypto
 
-149. The Owl and The Fox
+156. The Owl and The Fox
 https://open.kattis.com/problems/owlandfox
 
-150. ToLower
+157. ToLower
 https://open.kattis.com/problems/tolower
 
-151. Toilet Seat
+158. Toilet Seat
 https://open.kattis.com/problems/toilet
 
-152. Tour de France
+159. Tour de France
 https://open.kattis.com/problems/tourdefrance
 
-153. Transit Woes
+160. Transit Woes
 https://open.kattis.com/problems/transitwoes
 
-154. Tri
+161. Tri
 https://open.kattis.com/problems/tri
 
-155. Trik
+162. Trik
 https://open.kattis.com/problems/trik
 
-156. Troll Hunt
+163. Troll Hunt
 https://open.kattis.com/problems/trollhunt
 
-157. Un-bear-able Zoo
+164. Un-bear-able Zoo
 https://open.kattis.com/problems/zoo
 
-158. Veci
+165. Veci
 https://open.kattis.com/problems/veci
 
-159. Volim
+166. Volim
 https://open.kattis.com/problems/volim
 
-160. Weak Vertices
+167. Weak Vertices
 https://open.kattis.com/problems/weakvertices
 
-161. What does the fox say?
+168. What does the fox say?
 https://open.kattis.com/problems/whatdoesthefoxsay
 
-162. Zamka
+169. Zamka
 https://open.kattis.com/problems/zamka
+
