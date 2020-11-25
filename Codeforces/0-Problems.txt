@@ -1,302 +1,311 @@
-1. Left-handers, Right-handers and Ambidexters
-https://codeforces.com/contest/950/problem/A
-
-2. Ilya and Bank Account
-https://codeforces.com/contest/313/problem/A
-
-3. Petya and Countryside
-https://codeforces.com/contest/66/problem/B
-
-4. Watermelon
-https://codeforces.com/contest/4/problem/A
-
-5. Another One Bite The Dust
-https://codeforces.com/contest/1148/problem/A
-
-6. Team
-https://codeforces.com/contest/231/problem/A
-
-7. Add Odd or Subtract Even
-https://codeforces.com/contest/1311/problem/A
-
-8. Two Regular Polygons
-https://codeforces.com/contest/1312/problem/A
-
-9. Bogosort
-https://codeforces.com/contest/1312/problem/B
-
-10. Yet Another Tetris Problem
-https://codeforces.com/contest/1324/problem/A
-
-11. Divide the Cash
-https://codeforces.com/gym/102343/problem/A
-
-12. Sort by Frequency
-https://codeforces.com/gym/102343/problem/B
-
-13. Maximums
-https://codeforces.com/contest/1326/problem/B
-
-14. CopyCopyCopyCopyCopy
-https://codeforces.com/contest/1325/problem/B
-
-15. EhAb AnD gCd
-https://codeforces.com/contest/1325/problem/A
-
-16. Even Subset Sum Problem
-https://codeforces.com/contest/1323/problem/A
-
-17. Sum of Odd Integers
-https://codeforces.com/contest/1327/problem/A
-
-18. Array with Odd Sum
-https://codeforces.com/contest/1296/problem/A
-
-19. Food Buying
-https://codeforces.com/contest/1296/problem/B
-
-20. Divisibility Problem
-https://codeforces.com/contest/1328/problem/A
-
-21. Ternary XOR
-https://codeforces.com/contest/1328/problem/C
-
-22. Adding Two Integers
-https://codeforces.com/gym/102212/problem/A
-
-23. Racetrack
-https://codeforces.com/gym/102212/problem/B
-
-24. Pig Latin
-https://codeforces.com/gym/102212/problem/C
-
-25. Rank Riana and One Punch
-https://codeforces.com/gym/102556/problem/A
-
-26. Exercising Walk
-https://codeforces.com/contest/1332/problem/A
-
-27. Dead Pixel
-https://codeforces.com/problemset/problem/1315/A
-
-27. Thanos Sort
-https://codeforces.com/contest/1145/problem/A
-
-28. Is it rated?
-https://codeforces.com/contest/1331/problem/A
-
-29. Quirky Quantifiers
-https://codeforces.com/contest/952/problem/A
-
-30. Bad Ugly Numbers
-https://codeforces.com/contest/1326/problem/A
-
-31. Collecting Coins
-https://codeforces.com/contest/1294/problem/A
-
-32. Collecting Packages
-https://codeforces.com/contest/1294/problem/B
-
-33. Candies and Two Sisters
-https://codeforces.com/contest/1335/problem/A
-
-34. Construct the String
-https://codeforces.com/contest/1335/problem/B
-
-35. Two Teams Composing
-https://codeforces.com/contest/1335/problem/C
-
-36. Anti-Sudoku
-https://codeforces.com/contest/1335/problem/D
-
-37. SpongeBob SquarePants
-https://codeforces.com/gym/102219/problem/B
-
-38. I Don't Want To Pay For The Late Jar!
-https://codeforces.com/gym/102219/problem/C
-
-39. To Crash Or Not To Crash
-https://codeforces.com/gym/102219/problem/I
-
-40. Kitchen Plates
-https://codeforces.com/gym/102219/problem/J
-
-41. Help the Support Lady
-https://codeforces.com/gym/102219/problem/K
-
-42. Go Latin
-https://codeforces.com/gym/101987/attachments
-
-43. Candies
-https://codeforces.com/contest/1343/problem/A
-
-44. Balanced Array
-https://codeforces.com/contest/1343/problem/B
-
-45. Cow and Haybales
-https://codeforces.com/contest/1307/problem/A
-
-46. Alternating Subsequence
-https://codeforces.com/contest/1343/problem/C
-
-47. Nastya and Rice
-https://codeforces.com/contest/1341/problem/A
-
-48. Road To Zero
-https://codeforces.com/contest/1342/problem/A
-
-49. Phoenix and Balanced
-https://codeforces.com/contest/1348/problem/A
-
-50. Puzzle Pieces
-https://codeforces.com/contest/1345/problem/A
-
-51. Card Constructions
-https://codeforces.com/contest/1345/problem/B
-
-52. A+B (Trial Problem)
+1. A+B (Trial Problem)
 https://codeforces.com/contest/1351/problem/A
 
-53. Sum of Round Numbers
-https://codeforces.com/contest/1352/problem/A
+2. Add Odd or Subtract Even
+https://codeforces.com/contest/1311/problem/A
 
-54. Same Parity Summands
-https://codeforces.com/contest/1352/problem/B
+3. Adding Two Integers
+https://codeforces.com/gym/102212/problem/A
 
-55. K-th Not Divisible by n
-https://codeforces.com/contest/1352/problem/C
-
-56. Alice, Bob and Candies
+4. Alice, Bob and Candies
 https://codeforces.com/contest/1352/problem/D
 
-57. Special Permutation
-https://codeforces.com/contest/1352/problem/G
+5. Alternating Subsequence
+https://codeforces.com/contest/1343/problem/C
 
-58. Binary String Reconstruction
-https://codeforces.com/contest/1352/problem/F
+6. Another One Bite The Dust
+https://codeforces.com/contest/1148/problem/A
 
-59. Yet Another Palindrome Problem
-https://codeforces.com/contest/1324/problem/B
+7. Anti-Sudoku
+https://codeforces.com/contest/1335/problem/D
 
-60. Frog Jumps
-https://codeforces.com/contest/1324/problem/C
-
-61. Most Unstable Array
-https://codeforces.com/contest/1353/problem/A
-
-62. Two Arrays And Swaps
-https://codeforces.com/contest/1353/problem/B
-
-63. Board Moves
-https://codeforces.com/contest/1353/problem/C
-
-64. Applejack and Storages
+8. Applejack and Storages
 https://codeforces.com/contest/1393/problem/B
 
-65. Avoiding Zero
-https://codeforces.com/contest/1427/problem/A
-
-66. Bad Triangle
-https://codeforces.com/contest/1398/problem/A
-
-67. Bit++
-https://codeforces.com/problemset/problem/282/A
-
-68. Boy or Girl
-https://codeforces.com/problemset/problem/236/A
-
-69. Candies Division
-https://codeforces.com/problemset/problem/1283/B
-
-70. Captain Flint and Crew Recruitment
-https://codeforces.com/problemset/problem/1388/A
-
-71. ConneR and the A.R.C. Markland-N
-https://codeforces.com/problemset/problem/1293/A
-
-72. Domino piling
-https://codeforces.com/problemset/problem/50/A
-
-73. Floor Number
-https://codeforces.com/problemset/problem/1426/A
-
-74. Gifts Fixing
-https://codeforces.com/problemset/problem/1399/B
-
-75. Honest Coach
-https://codeforces.com/problemset/problem/1360/B
-
-76. JOE is on TV!
-https://codeforces.com/problemset/problem/1293/B
-
-77. Make it Good
-https://codeforces.com/problemset/problem/1385/C
-
-78. Minimal Square
-https://codeforces.com/problemset/problem/1360/A
-
-79. Minimum Product
-https://codeforces.com/problemset/problem/1409/B
-
-80. Minutes Before the New Year
-https://codeforces.com/problemset/problem/1283/A
-
-81. Next Round
-https://codeforces.com/problemset/problem/158/A
-
-82. Rainbow Dash, Fluttershy and Chess Coloring
-https://codeforces.com/problemset/problem/1393/A
-
-83. Remove Smallest
-https://codeforces.com/problemset/problem/1399/A
-
-84. Restore the Permutation by Merger
-https://codeforces.com/problemset/problem/1385/B
-
-85. Similar Pairs
-https://codeforces.com/problemset/problem/1360/C
-
-86. Substring Removal Game
-https://codeforces.com/problemset/problem/1398/B
-
-87. Sum of Round Numbers
-https://codeforces.com/problemset/problem/1352/A
-
-88. Symmetric Matrix
-https://codeforces.com/problemset/problem/1426/B
-
-89. The Way To Home
-https://codeforces.com/problemset/problem/910/A
-
-90. Three Pairwise Maximums
-https://codeforces.com/problemset/problem/1385/A
-
-91. Yet Another Two Integers Problem
-https://codeforces.com/problemset/problem/1409/A
-
-92. Aramic script
+9. Aramic script
 https://codeforces.com/problemset/problem/975/A
 
-93. Cards
-https://codeforces.com/problemset/problem/1220/A
+10. Array with Odd Sum
+https://codeforces.com/contest/1296/problem/A
 
-94. Facetook Priority Wall
-https://codeforces.com/problemset/problem/75/B
+11. Avoiding Zero
+https://codeforces.com/contest/1427/problem/A
 
-95. Badge
+12. Bad Triangle
+https://codeforces.com/contest/1398/problem/A
+
+13. Bad Ugly Numbers
+https://codeforces.com/contest/1326/problem/A
+
+14. Badge
 https://codeforces.com/problemset/problem/1020/B
 
-96. Boring Apartmetns
+15. Balanced Array
+https://codeforces.com/contest/1343/problem/B
+
+16. Binary String Reconstruction
+https://codeforces.com/contest/1352/problem/F
+
+17. Bit++
+https://codeforces.com/problemset/problem/282/A
+
+18. Board Moves
+https://codeforces.com/contest/1353/problem/C
+
+19. Bogosort
+https://codeforces.com/contest/1312/problem/B
+
+20. Boring Apartmetns
 https://codeforces.com/contest/1433/problem/A
 
-97. Yet Another Bookshelf
-https://codeforces.com/contest/1433/problem/B
+21. Boy or Girl
+https://codeforces.com/problemset/problem/236/A
 
-98. Dominant Piranha
-https://codeforces.com/contest/1433/problem/C
+22. Candies
+https://codeforces.com/contest/1343/problem/A
 
-99. Districts Connection
+23. Candies Division
+https://codeforces.com/problemset/problem/1283/B
+
+24. Candies and Two Sisters
+https://codeforces.com/contest/1335/problem/A
+
+25. Captain Flint and Crew Recruitment
+https://codeforces.com/problemset/problem/1388/A
+
+26. Card Constructions
+https://codeforces.com/contest/1345/problem/B
+
+27. Cards
+https://codeforces.com/problemset/problem/1220/A
+
+28. Collecting Coins
+https://codeforces.com/contest/1294/problem/A
+
+29. Collecting Packages
+https://codeforces.com/contest/1294/problem/B
+
+30. ConneR and the A.R.C. Markland-N
+https://codeforces.com/problemset/problem/1293/A
+
+31. Construct the String
+https://codeforces.com/contest/1335/problem/B
+
+32. CopyCopyCopyCopyCopy
+https://codeforces.com/contest/1325/problem/B
+
+33. Cow and Haybales
+https://codeforces.com/contest/1307/problem/A
+
+34. Dead Pixel
+https://codeforces.com/problemset/problem/1315/A
+
+35. Districts Connection
 https://codeforces.com/contest/1433/problem/D
 
-100. Guess The Number
+36. Divide the Cash
+https://codeforces.com/gym/102343/problem/A
+
+37. Divisibility Problem
+https://codeforces.com/contest/1328/problem/A
+
+38. Dominant Piranha
+https://codeforces.com/contest/1433/problem/C
+
+39. Domino piling
+https://codeforces.com/problemset/problem/50/A
+
+40. EhAb AnD gCd
+https://codeforces.com/contest/1325/problem/A
+
+41. Even Subset Sum Problem
+https://codeforces.com/contest/1323/problem/A
+
+42. Exercising Walk
+https://codeforces.com/contest/1332/problem/A
+
+43. Facetook Priority Wall
+https://codeforces.com/problemset/problem/75/B
+
+44. Floor Number
+https://codeforces.com/problemset/problem/1426/A
+
+45. Food Buying
+https://codeforces.com/contest/1296/problem/B
+
+46. Frog Jumps
+https://codeforces.com/contest/1324/problem/C
+
+47. Gifts Fixing
+https://codeforces.com/problemset/problem/1399/B
+
+48. Go Latin
+https://codeforces.com/gym/101987/attachments
+
+49. Guess The Number
 https://codeforces.com/gym/101021/problem/1
+
+50. Help the Support Lady
+https://codeforces.com/gym/102219/problem/K
+
+51. Honest Coach
+https://codeforces.com/problemset/problem/1360/B
+
+52. I Don't Want To Pay For The Late Jar!
+https://codeforces.com/gym/102219/problem/C
+
+53. Ilya and Bank Account
+https://codeforces.com/contest/313/problem/A
+
+54. Is it rated?
+https://codeforces.com/contest/1331/problem/A
+
+55. JOE is on TV!
+https://codeforces.com/problemset/problem/1293/B
+
+56. K-th Not Divisible by n
+https://codeforces.com/contest/1352/problem/C
+
+57. Kitchen Plates
+https://codeforces.com/gym/102219/problem/J
+
+58. Left-handers, Right-handers and Ambidexters
+https://codeforces.com/contest/950/problem/A
+
+59. Make it Good
+https://codeforces.com/problemset/problem/1385/C
+
+60. Maximums
+https://codeforces.com/contest/1326/problem/B
+
+61. Minimal Square
+https://codeforces.com/problemset/problem/1360/A
+
+62. Minimum Product
+https://codeforces.com/problemset/problem/1409/B
+
+63. Minutes Before the New Year
+https://codeforces.com/problemset/problem/1283/A
+
+64. Most Unstable Array
+https://codeforces.com/contest/1353/problem/A
+
+65. Nastya and Rice
+https://codeforces.com/contest/1341/problem/A
+
+66. Next Round
+https://codeforces.com/problemset/problem/158/A
+
+67. Petya and Countryside
+https://codeforces.com/contest/66/problem/B
+
+68. Phoenix and Balanced
+https://codeforces.com/contest/1348/problem/A
+
+69. Pig Latin
+https://codeforces.com/gym/102212/problem/C
+
+70. Puzzle Pieces
+https://codeforces.com/contest/1345/problem/A
+
+71. Quirky Quantifiers
+https://codeforces.com/contest/952/problem/A
+
+72. Racetrack
+https://codeforces.com/gym/102212/problem/B
+
+73. Rainbow Dash, Fluttershy and Chess Coloring
+https://codeforces.com/problemset/problem/1393/A
+
+74. Rank Riana and One Punch
+https://codeforces.com/gym/102556/problem/A
+
+75. Remove Smallest
+https://codeforces.com/problemset/problem/1399/A
+
+76. Restore the Permutation by Merger
+https://codeforces.com/problemset/problem/1385/B
+
+77. Road To Zero
+https://codeforces.com/contest/1342/problem/A
+
+78. Same Parity Summands
+https://codeforces.com/contest/1352/problem/B
+
+79. Similar Pairs
+https://codeforces.com/problemset/problem/1360/C
+
+80. Sort by Frequency
+https://codeforces.com/gym/102343/problem/B
+
+81. Special Permutation
+https://codeforces.com/contest/1352/problem/G
+
+82. Special Permutation
+https://codeforces.com/contest/1454/problem/A
+
+83. Specific Tastes of Andre
+https://codeforces.com/contest/1438/problem/A
+
+84. SpongeBob SquarePants
+https://codeforces.com/gym/102219/problem/B
+
+85. Substring Removal Game
+https://codeforces.com/problemset/problem/1398/B
+
+86. Sum of Odd Integers
+https://codeforces.com/contest/1327/problem/A
+
+87. Sum of Round Numbers
+https://codeforces.com/contest/1352/problem/A
+
+88. Sum of Round Numbers
+https://codeforces.com/problemset/problem/1352/A
+
+89. Symmetric Matrix
+https://codeforces.com/problemset/problem/1426/B
+
+90. Team
+https://codeforces.com/contest/231/problem/A
+
+91. Ternary XOR
+https://codeforces.com/contest/1328/problem/C
+
+92. Thanos Sort
+https://codeforces.com/contest/1145/problem/A
+
+93. The Way To Home
+https://codeforces.com/problemset/problem/910/A
+
+94. Three Pairwise Maximums
+https://codeforces.com/problemset/problem/1385/A
+
+95. To Crash Or Not To Crash
+https://codeforces.com/gym/102219/problem/I
+
+96. Two Arrays And Swaps
+https://codeforces.com/contest/1353/problem/B
+
+97. Two Regular Polygons
+https://codeforces.com/contest/1312/problem/A
+
+98. Two Teams Composing
+https://codeforces.com/contest/1335/problem/C
+
+99. Unique Bid Auction
+https://codeforces.com/contest/1454/problem/B
+
+100. Watermelon
+https://codeforces.com/contest/4/problem/A
+
+101. Yet Another Bookshelf
+https://codeforces.com/contest/1433/problem/B
+
+102. Yet Another Palindrome Problem
+https://codeforces.com/contest/1324/problem/B
+
+103. Yet Another Tetris Problem
+https://codeforces.com/contest/1324/problem/A
+
+104. Yet Another Two Integers Problem
+https://codeforces.com/problemset/problem/1409/A
