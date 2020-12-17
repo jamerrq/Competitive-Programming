@@ -12,19 +12,24 @@ t = read()
 for _ in range(t):
     n = read()
     A = readList()
+    B = []
+    for i in range(n):
+        if (B and B[-1] != A[i]) or not B:
+            B.append(A[i])
+
     m = {}
-    for num in A:
+    for num in B[1:]:
         m[num] = m.get(num, 0) + 1
 
-    l = [(key, value) for key, value in m.items()]
-    l.sort(key=lambda x : x[1])
-    f = l.pop(0)[0]
+    min, num = m.get(B[0], 0), B[0]
+    for numi in B:
+        if m.get(numi, 0) < min:
+            min = m.get(numi, 0)
+            num = numi
 
-    intvs = []
-    for i in range(n):
-        if i == 0 or (not f - A[i]) or i == n - 1:
-            intvs.append(i)
+    spaces = 0
+    B.insert(0, num)
+    for i in range(1, len(B)):
+        spaces += int(B[i] != num and B[i - 1] == num)
 
-    print(f, intvs)
-    count = sum([1 for i in range(1, len(intvs)) if intvs[i] > intvs[i - 1] + 1])
-    print(count)
+    print(spaces)
