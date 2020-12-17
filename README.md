@@ -13,4 +13,5 @@ Vjudge: [https://vjudge.net/user/jamerrq].\
 Google Code Jam: [https://codingcompetitions.withgoogle.com/codejam].\
 Project Euler: [https://projecteuler.net/archives].\
 AtCoder: [https://atcoder.jp/users/jamerrq].\
-RPC: [https://www.facebook.com/RedProgramacionCompetitiva].
+RPC: [https://www.facebook.com/RedProgramacionCompetitiva].\
+CP-Algorithms: [https://cp-algorithms.com/]
