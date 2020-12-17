@@ -1,0 +1,5 @@
+This page is not about contest but learning the main algorithms used in CP.
+The problems solved here are the suggested at the topics pages.
+I strongly recommended the page since it's a good way to improve skills.
+Check it out: https://cp-algorithms.com/
+
