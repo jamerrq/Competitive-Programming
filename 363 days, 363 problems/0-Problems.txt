@@ -1,0 +1,2 @@
+1. Birthday Memorization
+https://open.kattis.com/problems/fodelsedagsmemorisering
