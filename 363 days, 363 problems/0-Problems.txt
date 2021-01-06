@@ -1,2 +1,11 @@
 1. Birthday Memorization
 https://open.kattis.com/problems/fodelsedagsmemorisering
+
+2. Last minute enhancements
+https://codeforces.com/contest/1466/problem/B
+
+3. Cards for Friends
+https://codeforces.com/contest/1472/problem/A
+
+4. Fair Division
+https://codeforces.com/contest/1472/problem/B
