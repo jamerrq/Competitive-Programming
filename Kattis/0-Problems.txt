@@ -503,4 +503,3 @@ https://open.kattis.com/problems/whatdoesthefoxsay
 
 169. Zamka
 https://open.kattis.com/problems/zamka
-

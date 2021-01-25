@@ -9,3 +9,6 @@ https://codeforces.com/contest/1472/problem/A
 
 4. Fair Division
 https://codeforces.com/contest/1472/problem/B
+
+5. Line Them Up
+https://open.kattis.com/problems/lineup
