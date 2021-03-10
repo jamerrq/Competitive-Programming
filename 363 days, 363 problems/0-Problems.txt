@@ -12,3 +12,55 @@ https://codeforces.com/contest/1472/problem/B
 
 5. Line Them Up
 https://open.kattis.com/problems/lineup
+
+6. Odd Divisor
+https://codeforces.com/contest/1475/problem/A
+
+7. New Year's Number
+https://codeforces.com/contest/1475/problem/B
+
+8. Ball in Berland
+https://codeforces.com/contest/1475/problem/C
+
+9. One Piece Of Cake
+RPC
+
+10. Imaginary Numbers
+RPC
+
+11. Queries on the Stack
+RPC
+
+12. Mandatory by Summations
+RPC
+
+13. Johanns Function
+RPC
+
+14. Horror Dash
+https://vjudge.net/contest/424656#problem/A
+
+15. Neko Finds Grapes
+https://vjudge.net/contest/424656#problem/B
+
+16. Parking
+https://vjudge.net/contest/424656#problem/C
+
+17. Maximum Square
+https://vjudge.net/contest/424656#problem/D
+
+18. The Snail
+https://vjudge.net/contest/424656#problem/E
+
+19. Snakes and Ladders
+https://vjudge.net/contest/424656#problem/F
+
+20. Find The Bone
+https://vjudge.net/contest/424656#problem/G
+
+21. Bingo!
+https://vjudge.net/contest/424656#problem/H
+
+22. Palindromes
+https://vjudge.net/contest/424656#problem/I
+
