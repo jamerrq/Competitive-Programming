@@ -69,3 +69,24 @@ https://codeforces.com/contest/1549/problem/A
 
 24. Goodness String
 https://codingcompetitions.withgoogle.com/kickstart/round/0000000000436140/000000000068cca3
+
+25. Replacing Elements
+https://codeforces.com/contest/1473/problem/A
+
+26. Nezzar and Colorful Balls
+https://codeforces.com/contest/1478/problem/A
+
+27. AquaMoon and Two Arrays
+https://codeforces.com/contest/1546/problem/A
+
+28. Chores
+
+29. Definite Game
+
+30. Demetrio and Sequence
+
+31. Sereja and Suffixes
+
+32. Triangle
+
+33. Wrath
