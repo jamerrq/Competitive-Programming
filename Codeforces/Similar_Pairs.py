@@ -1,34 +1,41 @@
 import sys
 
-t = int(sys.stdin.readline())
 
+def read(func=int):
+    return func(sys.stdin.readline().strip())
+
+def readList(func=int):
+    return list(map(func, sys.stdin.readline().strip().split()))
+
+
+t = read()
 for _ in range(t):
-    n = int(sys.stdin.readline())
-    l = list(map(int, sys.stdin.readline().split()))
-    p = []
-    u = []
-    mapi = {}
-    for num in l:
+    n = read()
+    A = readList()
 
-        if mapi.get(num):
-            mapi[num] += 1
+    m = {}
+    odds  = 0
+    evens = 0
+    for num in A:
+        m[num] = m.get(num, 0) + 1
+        if num % 2:
+            odds += 1
         else:
-            mapi[num] = 1
+            evens += 1
 
-        if num % 2 == 0:
-            p.append(num)
-        else:
-            u.append(num)
-
-    if len(p) % 2 == 0 and len(u) % 2 == 0:
+    if odds % 2 == 0:
         print('YES')
+
     else:
+
+
+        A.sort()
         founded = False
-        for num in l:
-            if mapi.get(num + 1) or mapi.get(num - 1):
+        for i in range(1, n):
+            if A[i] == A[i - 1] + 1:
+                print('YES')
                 founded = True
                 break
-        if founded:
-            print('YES')
-        else:
+
+        if not founded:
             print('NO')

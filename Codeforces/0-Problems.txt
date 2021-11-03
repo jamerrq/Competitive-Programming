@@ -309,3 +309,6 @@ https://codeforces.com/contest/1324/problem/A
 
 104. Yet Another Two Integers Problem
 https://codeforces.com/problemset/problem/1409/A
+
+105. Gregor and Cryptography
+https://codeforces.com/contest/1549/problem/A
