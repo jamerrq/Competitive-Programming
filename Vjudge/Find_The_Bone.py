@@ -12,7 +12,9 @@ n, m, k = readList()
 H = set(readList())
 position = 1
 locked = position in H
+
 for _ in range(k):
+
     u, v = readList()
     if u == position:
         if not locked:

@@ -64,3 +64,8 @@ https://vjudge.net/contest/424656#problem/H
 22. Palindromes
 https://vjudge.net/contest/424656#problem/I
 
+23. Gregor and Cryptography
+https://codeforces.com/contest/1549/problem/A
+
+24. Goodness String
+https://codingcompetitions.withgoogle.com/kickstart/round/0000000000436140/000000000068cca3
