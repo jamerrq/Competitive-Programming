@@ -1,15 +1,25 @@
 import sys
 
-t = int(sys.stdin.readline())
 
-for _ in range(t):
-    n = int(sys.stdin.readline())
-    out = []
-    strn = str(n)[::-1]
-    for i in range(len(strn)):
-        char = strn[i]
+def read(func=int):
+    return func(sys.stdin.readline().strip())
+
+
+def readList(func=int):
+    return list(map(func, sys.stdin.readline().strip().split()))
+
+
+n = read()
+for _ in range(n):
+    number = read(str)
+    aux = []
+    idx = 0
+    for char in number:
         if char != '0':
-            out.append((int(char) * 10 ** i))
-    
-    print(len(out))
-    print(' '.join([str(x) for x in out]))
+            aux.append(char + '0' * (len(number) - idx - 1))
+
+        idx += 1
+
+    if aux:
+        print(len(aux))
+        print(' '.join(aux))

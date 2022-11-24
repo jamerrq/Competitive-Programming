@@ -1,3 +1,4 @@
+import readline
 import sys
 
 
@@ -11,8 +12,7 @@ def readList(func=int):
 
 t = read()
 for _ in range(t):
-    n, m = readList()
-    if n % m == 0:
-        print("YES")
-    else:
-        print("NO")
+    n = read()
+    A = readList()
+    minA = min(A)
+    print(sum([x - minA for x in A]))

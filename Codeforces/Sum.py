@@ -11,8 +11,9 @@ def readList(func=int):
 
 t = read()
 for _ in range(t):
-    n, m = readList()
-    if n % m == 0:
+
+    a, b, c = readList()
+    if c == a + b or b == a + c or a == b + c:
         print("YES")
     else:
         print("NO")

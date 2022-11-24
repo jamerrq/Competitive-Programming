@@ -11,8 +11,10 @@ def readList(func=int):
 
 t = read()
 for _ in range(t):
-    n, m = readList()
-    if n % m == 0:
-        print("YES")
+    n = read()
+    A = readList() + [0]
+    A.sort()
+    if A[-1] - A[-2] > 1:
+        print('no')
     else:
-        print("NO")
+        print('yes')

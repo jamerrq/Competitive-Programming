@@ -11,8 +11,10 @@ def readList(func=int):
 
 t = read()
 for _ in range(t):
-    n, m = readList()
-    if n % m == 0:
-        print("YES")
+    n, k = readList()
+    A = readList()
+
+    if sum(A):
+        print('YES')
     else:
-        print("NO")
+        print('NO')

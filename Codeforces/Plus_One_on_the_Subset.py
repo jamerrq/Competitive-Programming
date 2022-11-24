@@ -9,10 +9,9 @@ def readList(func=int):
     return list(map(func, sys.stdin.readline().strip().split()))
 
 
+
 t = read()
 for _ in range(t):
-    n, m = readList()
-    if n % m == 0:
-        print("YES")
-    else:
-        print("NO")
+    n = read()
+    A = readList()
+    print(max(A) - min(A))

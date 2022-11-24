@@ -9,10 +9,12 @@ def readList(func=int):
     return list(map(func, sys.stdin.readline().strip().split()))
 
 
+
 t = read()
 for _ in range(t):
-    n, m = readList()
-    if n % m == 0:
-        print("YES")
+    num = read(str)
+    if int(num[0]) + int(num[1]) + int(num[2]) == \
+        int(num[3]) + int(num[4]) + int(num[5]):
+        print('YES')
     else:
-        print("NO")
+        print('NO')
